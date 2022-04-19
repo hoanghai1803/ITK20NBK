@@ -30,3 +30,9 @@ Register accounts on Online Judges:
     - [NBKOJ COPRIMEARR](https://nbk.homes/problem/coprimearr) - *Sieve, Inclusion-Exclusion Principle*
     - [NBKOJ BFPERMSTR](https://nbk.homes/problem/bfpermstr) - *Modular Inverse*
     - [NBKOJ BFCOMB](https://nbk.homes/problem/bfcomb) - *Modular Inverse*
+
+- **Week 2 (14.03 - 20.03)**
+
+    (15.03) Graph Fundamental, BFS, DFS
+    - [VNOJ ADS](https://oj.vnoi.info/problem/ads) - *Bfs, Dfs*
+    - 
