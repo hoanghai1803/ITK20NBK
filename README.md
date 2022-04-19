@@ -1,2 +1,4 @@
-# ITK20NBK
-Training syllabus for ITK19 NBK (by __BruteForce__)
+# BF Training ITK20 NBK Summer 2022
+
+Training syllabus for ITK20 NBK summer 2022 by **\_\_BruteForce\_\_**. 
+
