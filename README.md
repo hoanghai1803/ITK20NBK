@@ -35,4 +35,10 @@ Register accounts on Online Judges:
 
     (15.03) Graph Fundamental, BFS, DFS
     - [VNOJ ADS](https://oj.vnoi.info/problem/ads) - *Bfs, Dfs*
-    - 
+    - [NBKOJ BFGIFTS](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
+    - [NBKOJ SUMSUBTREE](https://nbk.homes/problem/sumsubtree) - *Dfs, Segment Tree / Fenwick Tree*
+
+    (17.03) Binary Search, Two Pointers
+    - [NBKOJ MTWALK](https://nbk.homes/problem/mtwalk) - *Binary Search, Bfs, Dfs*
+    - [NBKOJ VOI15MINCUT](https://nbk.homes/problem/voi15mincut) - *Binary Search, Prefix Sum 2D*
+    - [NBKOJ VOI14MINROAD](https://nbk.homes/problem/voi14minroad) - *Binary Search, Two Pointers*
