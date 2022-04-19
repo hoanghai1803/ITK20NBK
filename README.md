@@ -25,7 +25,7 @@ Register accounts on Online Judges:
     - [NBKOJ PLANTS](https://nbk.homes/problem/plants) - *Brute-force, Prefix Sum 2D* 
     - [NBKOJ VOI18BONUS](https://nbk.homes/problem/voi18bonus) - *Inclusion-Exclusion Principle, Prefix Sum 2D*
 
-    (12.03) Arithmetic:
+    (12.03) Number Theory:
     - [NBKOJ EXP](https://nbk.homes/problem/exp) - *Binary Exponentiation*
     - [NBKOJ COPRIMEARR](https://nbk.homes/problem/coprimearr) - *Sieve, Inclusion-Exclusion Principle*
     - [NBKOJ BFPERMSTR](https://nbk.homes/problem/bfpermstr) - *Modular Inverse*
