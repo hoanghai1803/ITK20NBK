@@ -2,7 +2,7 @@
 
 Training syllabus for ITK20 NBK summer 2022 by **\_\_BruteForce\_\_**. Prepare for Quang Nam Olympiad in Informatics (2022) and Vietnamese National Olympiad in Informatics (VOI 2023).
 
-## Requirement
+## Requirements
 
 Register accounts on Online Judges:
 - [VNOJ: VNOI Online Judge](https://oj.vnoi.info/)
@@ -11,6 +11,17 @@ Register accounts on Online Judges:
 - [Codeforces](https://codeforces.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [CSES - Code Submission Evaluation System](https://cses.fi/)
+
+## References
+
+- [VNOI Wiki](https://vnoi.info/wiki/Home)
+- [CP-Algorithms](https://cp-algorithms.com/)
+- [CSES CP Handbook](https://cses.fi/book/index.php)
+- [DSAP - Le Minh Hoang](https://drive.google.com/file/d/0BwcTB8a10LBwV1J3T2xDTGhQNmM/view?resourcekey=0-R4tnYInPWCKb5W_DK_JQwQ)
+- [CP Book](https://cpbook.net/)
+- [Kc97ble](https://sites.google.com/site/kc97ble/)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/)
+- [Codeforces](https://codeforces.com/edu/courses)
 
 ## Syllabus
 
