@@ -28,28 +28,44 @@ Register accounts on Online Judges:
 - **Week 1 (07.03 - 13.03)**
 
     (08.03) Brute-force:
-    - [NBKOJ BFKNIGHT](https://nbk.homes/problem/bfknight) - *Recursion, Backtracking*
-    - [NBKOJ BFGENE](https://nbk.homes/problem/bfgene) - *Brute-force*
-    - [NBKOJ BFDIV](https://nbk.homes/problem/bfdiv) - *Meet in the middle*
+    - [NBKOJ bfknight](https://nbk.homes/problem/bfknight) - *Recursion, Backtracking*
+    - [NBKOJ bfgene](https://nbk.homes/problem/bfgene) - *Brute-force*
+    - [NBKOJ bfdiv](https://nbk.homes/problem/bfdiv) - *Meet in the middle*
 
     (10.03) Prefix Sum, Prefix Sum 2D:
-    - [NBKOJ PLANTS](https://nbk.homes/problem/plants) - *Brute-force, Prefix Sum 2D* 
-    - [NBKOJ VOI18BONUS](https://nbk.homes/problem/voi18bonus) - *Inclusion-Exclusion Principle, Prefix Sum 2D*
+    - [NBKOJ plants](https://nbk.homes/problem/plants) - *Brute-force, Prefix Sum 2D* 
+    - [NBKOJ voi18bonus](https://nbk.homes/problem/voi18bonus) - *Inclusion-Exclusion Principle, Prefix Sum 2D*
 
     (12.03) Number Theory:
-    - [NBKOJ EXP](https://nbk.homes/problem/exp) - *Binary Exponentiation*
-    - [NBKOJ COPRIMEARR](https://nbk.homes/problem/coprimearr) - *Sieve, Inclusion-Exclusion Principle*
-    - [NBKOJ BFPERMSTR](https://nbk.homes/problem/bfpermstr) - *Modular Inverse*
-    - [NBKOJ BFCOMB](https://nbk.homes/problem/bfcomb) - *Modular Inverse*
+    - [NBKOJ exp](https://nbk.homes/problem/exp) - *Binary Exponentiation*
+    - [NBKOJ coprimearr](https://nbk.homes/problem/coprimearr) - *Sieve, Inclusion-Exclusion Principle*
+    - [NBKOJ bfpermstr](https://nbk.homes/problem/bfpermstr) - *Modular Inverse*
+    - [NBKOJ bfcomb](https://nbk.homes/problem/bfcomb) - *Modular Inverse*
 
 - **Week 2 (14.03 - 20.03)**
 
     (15.03) Graph Fundamental, BFS, DFS
-    - [VNOJ ADS](https://oj.vnoi.info/problem/ads) - *Bfs, Dfs*
-    - [NBKOJ BFGIFTS](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
-    - [NBKOJ SUMSUBTREE](https://nbk.homes/problem/sumsubtree) - *Dfs, Segment Tree / Fenwick Tree*
+    - [VNOJ ads](https://oj.vnoi.info/problem/ads) - *Bfs, Dfs*
+    - [NBKOJ bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
+    - [NBKOJ sumsubtree](https://nbk.homes/problem/sumsubtree) - *Dfs, Segment Tree / Fenwick Tree*
 
     (17.03) Binary Search, Two Pointers
-    - [NBKOJ MTWALK](https://nbk.homes/problem/mtwalk) - *Binary Search, Bfs, Dfs*
-    - [NBKOJ VOI15MINCUT](https://nbk.homes/problem/voi15mincut) - *Binary Search, Prefix Sum 2D*
-    - [NBKOJ VOI14MINROAD](https://nbk.homes/problem/voi14minroad) - *Binary Search, Two Pointers*
+    - [NBKOJ mtwalk](https://nbk.homes/problem/mtwalk) - *Binary Search, Bfs, Dfs*
+    - [NBKOJ voi15mincut](https://nbk.homes/problem/voi15mincut) - *Binary Search, Prefix Sum 2D*
+    - [NBKOJ voi14minroad](https://nbk.homes/problem/voi14minroad) - *Binary Search, Two Pointers*
+
+- **Week 3 (16.05 - 22.05)**
+  
+    (20.05) Sieve
+    - [NBKOJ cntdiv](https://nbk.homes/problem/cntdiv) - *Number Theory, Sieve*
+    - [NBKOJ commondiv](https://nbk.homes/problem/commondiv) - *Sieve*
+    - [NBKOJ natdiv](https://nbk.homes/problem/natdiv) - *Sieve, Prefix Sum*
+    - [LQDOJ primecount](https://lqdoj.edu.vn/problem/primecount) - *Sieve*
+    - [VNOJ dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) - *Sieve, Prefix Sum*
+    - 
+
+    (21.05) Number Theory
+    - [VNOJ fcb005_lcmseq](https://oj.vnoi.info/problem/fcb005_lcmseq) - *Number Theory, Dynamic Programming (DP)*
+    - [NBKOJ sumdivisors](https://nbk.homes/problem/sumdivisors) - *Number Theory*
+    - [NBKOJ bddivan](http://nbk.homes/problem/bddivan) - *Number Theory, DP, Binary Exponentiation, Modular Inverse*
+    - 
