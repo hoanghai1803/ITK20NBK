@@ -21,7 +21,7 @@ Register accounts on Online Judges:
 - [CP Book](https://cpbook.net/)
 - [Kc97ble](https://sites.google.com/site/kc97ble/)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)
-- [Codeforces](https://codeforces.com/edu/courses)
+- [Codeforces Edu & Forum](https://codeforces.com/edu/courses)
 
 ## Syllabus
 
@@ -62,7 +62,7 @@ Register accounts on Online Judges:
     - [NBKOJ natdiv](https://nbk.homes/problem/natdiv) - *Sieve, Prefix Sum*
     - [LQDOJ primecount](https://lqdoj.edu.vn/problem/primecount) - *Sieve*
     - [VNOJ dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) - *Sieve, Prefix Sum*
-    - 
+    - [NBKOJ primediv](https://nbk.homes/problem/primediv) - *Sieve, Inclusion-Exclusion Principle*
 
     (21.05) Number Theory
     - [VNOJ fcb005_lcmseq](https://oj.vnoi.info/problem/fcb005_lcmseq) - *Number Theory, Dynamic Programming (DP)*
