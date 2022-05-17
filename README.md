@@ -39,8 +39,8 @@ Register accounts on Online Judges:
     (12.03) Number Theory:
     - [NBKOJ exp](https://nbk.homes/problem/exp) - *Binary Exponentiation*
     - [NBKOJ coprimearr](https://nbk.homes/problem/coprimearr) - *Sieve, Inclusion-Exclusion Principle*
-    - [NBKOJ bfpermstr](https://nbk.homes/problem/bfpermstr) - *Modular Inverse*
-    - [NBKOJ bfcomb](https://nbk.homes/problem/bfcomb) - *Modular Inverse*
+    - [NBKOJ bfpermstr](https://nbk.homes/problem/bfpermstr) - *Combinatorics, Modular Inverse*
+    - [NBKOJ bfcomb](https://nbk.homes/problem/bfcomb) - *Combinatorics, Modular Inverse*
 
 - **Week 2 (14.03 - 20.03)**
 
