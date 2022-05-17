@@ -37,7 +37,7 @@ Register accounts on Online Judges:
     - [NBKOJ voi18bonus](https://nbk.homes/problem/voi18bonus) - *Inclusion-Exclusion Principle, Prefix Sum 2D*
 
     (12.03) Number Theory:
-    - [NBKOJ exp](https://nbk.homes/problem/exp) - *Binary Exponentiation*
+    - [NBKOJ exp](https://nbk.homes/problem/exp) - *Number Theory, Binary Exponentiation*
     - [NBKOJ coprimearr](https://nbk.homes/problem/coprimearr) - *Sieve, Inclusion-Exclusion Principle*
     - [NBKOJ bfpermstr](https://nbk.homes/problem/bfpermstr) - *Combinatorics, Modular Inverse*
     - [NBKOJ bfcomb](https://nbk.homes/problem/bfcomb) - *Combinatorics, Modular Inverse*
