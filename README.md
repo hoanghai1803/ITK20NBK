@@ -68,6 +68,6 @@ Register accounts on Online Judges:
     - [VNOJ fcb005_lcmseq](https://oj.vnoi.info/problem/fcb005_lcmseq) - *Number Theory, Dynamic Programming (DP)*
     - [NBKOJ sumdivisors](https://nbk.homes/problem/sumdivisors) - *Number Theory*
     - [NBKOJ bddivan](http://nbk.homes/problem/bddivan) - *Number Theory, DP, Binary Exponentiation, Modular Inverse*
-    - [NBKOJ goodarr](https://nbk.homes/problem/goodarr) - *Number Theory*
-    - [NBKOJ cwdsquare](https://nbk.homes/problem/cwdsquare) - *Number Theory*
+    - [NBKOJ goodarr](https://nbk.homes/problem/goodarr) - *Number Theory, Brute-force*
+    - [NBKOJ cwdsquare](https://nbk.homes/problem/cwdsquare) - *Number Theory, Data Structure*
     - 
