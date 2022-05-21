@@ -70,4 +70,4 @@ Register accounts on Online Judges:
     - [NBKOJ bddivan](http://nbk.homes/problem/bddivan) - *Number Theory, DP, Binary Exponentiation, Modular Inverse*
     - [NBKOJ goodarr](https://nbk.homes/problem/goodarr) - *Number Theory, Brute-force*
     - [NBKOJ cwdsquare](https://nbk.homes/problem/cwdsquare) - *Number Theory, Data Structure*
-    - 
+    - [NBKOJ cntdiv2](https://nbk.homes/problem/cntdiv2) - *Sieve, Number Theory*
