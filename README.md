@@ -80,3 +80,4 @@ Register accounts on Online Judges:
     - [LQDOJ bosotg](https://lqdoj.edu.vn/problem/1819bosotg) - *Binary Search, Two Pointers*
     - [VNOJ twosum](https://oj.vnoi.info/problem/twosum) - *Two Pointers*
     - [VNOJ sopenp](https://oj.vnoi.info/problem/sopenp) - *Two Pointers*
+    - [NBKOJ qn21dance](https://nbk.homes/problem/qn21dance) *Two Pointers*
