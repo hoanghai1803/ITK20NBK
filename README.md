@@ -71,3 +71,12 @@ Register accounts on Online Judges:
     - [NBKOJ goodarr](https://nbk.homes/problem/goodarr) - *Number Theory, Brute-force*
     - [NBKOJ cwdsquare](https://nbk.homes/problem/cwdsquare) - *Number Theory, Data Structure*
     - [NBKOJ cntdiv2](https://nbk.homes/problem/cntdiv2) - *Sieve, Number Theory*
+
+- **Week 4 (23.05 - 29.05)**
+
+    (26.05) Binary Search, Two Pointers
+    - [VNOJ nksgame](https://oj.vnoi.info/problem/nksgame) - *Binary Search, Two Pointers*
+    - [VNOJ ndccard](https://oj.vnoi.info/problem/ndccard) - *Two Pointers*
+    - [LQDOJ bosotg](https://lqdoj.edu.vn/problem/1819bosotg) - *Binary Search, Two Pointers*
+    - [VNOJ twosum](https://oj.vnoi.info/problem/twosum) - *Two Pointers*
+    - [VNOJ sopenp](https://oj.vnoi.info/problem/sopenp) - *Two Pointers*
