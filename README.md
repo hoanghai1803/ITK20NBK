@@ -81,4 +81,3 @@ Register accounts on Online Judges:
     - [VNOJ twosum](https://oj.vnoi.info/problem/twosum) - *Two Pointers*
     - [VNOJ sopenp](https://oj.vnoi.info/problem/sopenp) - *Two Pointers*
     - [NBKOJ qn21dance](https://nbk.homes/problem/qn21dance) - *Two Pointers*
-    - [NBKOJ mergearr](https://nbk.homes/problem/mergearr) - *Two Pointers, Data Structure*
