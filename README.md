@@ -79,6 +79,6 @@ Register accounts on Online Judges:
     - [VNOJ ndccard](https://oj.vnoi.info/problem/ndccard) - *Two Pointers*
     - [LQDOJ bosotg](https://lqdoj.edu.vn/problem/1819bosotg) - *Binary Search, Two Pointers*
     - [VNOJ twosum](https://oj.vnoi.info/problem/twosum) - *Two Pointers*
-    - [VNOJ sopenp](https://oj.vnoi.info/problem/sopenp) - *Two Pointers*
+    - [VNOJ sopenp](https://oj.vnoi.info/problem/sopenp) - *Two Pointers, Data Structures*
     - [NBKOJ qn21dance](https://nbk.homes/problem/qn21dance) - *Two Pointers*
     - [VNOJ vmquabeo](https://oj.vnoi.info/problem/vmquabeo) - *Two Pointers, Data Structures*
