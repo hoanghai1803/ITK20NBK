@@ -85,3 +85,5 @@ Register accounts on Online Judges:
 
     (28.05) Binary Search, Ternary Search
     - [NBKOJ socdist](https://nbk.homes/problem/socdist) - *Binary Search, Greedy*
+    - [NBKOJ buycard](https://nbk.homes/problem/buycard) - *Binary Search*
+    - [NBKOJ cntplates](https://nbk.homes/problem/cntplates) - *Binary Search, Algebra*
