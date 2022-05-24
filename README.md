@@ -82,3 +82,6 @@ Register accounts on Online Judges:
     - [VNOJ sopenp](https://oj.vnoi.info/problem/sopenp) - *Two Pointers, Data Structures*
     - [NBKOJ qn21dance](https://nbk.homes/problem/qn21dance) - *Two Pointers*
     - [VNOJ vmquabeo](https://oj.vnoi.info/problem/vmquabeo) - *Two Pointers, Data Structures*
+
+    (28.05) Binary Search, Ternary Search
+    - [NBKOJ socdist](https://nbk.homes/problem/socdist) - *Binary Search, Greedy*
