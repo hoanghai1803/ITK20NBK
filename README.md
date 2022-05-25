@@ -23,6 +23,16 @@ Register accounts on Online Judges:
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)
 - [Codeforces Edu & Forum](https://codeforces.com/edu/courses)
 
+
+## OI Contest Resources
+
+- [Vietnamese Olympiad in Informatics](https://oj.vnoi.info/problems/?category=7&point_start=&point_end=)
+- [Croatian Open Competition in Informatics (COCI)](https://hsin.hr/coci/)
+- [USA Computing Olympiad (USACO)](http://www.usaco.org/index.php?page=contests)
+- [Central-European Olympiad in Informatics (CEOI)](https://cses.fi/ceoi/list/) (or on the [official site](http://ceoi.inf.elte.hu/))
+- [Baltic Olympiad in Informatics](https://cses.fi/boi/list/)
+
+----
 ## Syllabus
 
 - **Week 1 (07.03 - 13.03)**
@@ -87,3 +97,7 @@ Register accounts on Online Judges:
     - [NBKOJ socdist](https://nbk.homes/problem/socdist) - *Binary Search, Greedy*
     - [NBKOJ countpots](https://nbk.homes/problem/countpots) - *Binary Search, Algebra*
     - [NBKOJ buycard](https://nbk.homes/problem/buycard) - *Binary Search*
+    <!-- - [VNOJ predhbb21_meteor](https://oj.vnoi.info/problem/predhbb21_meteor) - *Binary Search, Geometry, Algebra* -->
+    - [NBKOJ bfbuilding](https://nbk.homes/problem/bfbuilding) - *Ternary Search*
+    - [NBKOJ weakseg](https://nbk.homes/problem/weakseg) - *Ternary Search*
+    <!-- - [LQDOJ surebet](https://lqdoj.edu.vn/problem/surebet) - *Ternary Search* -->
