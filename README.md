@@ -26,11 +26,11 @@ Register accounts on Online Judges:
 
 ## OI Contest Resources
 
-- [Vietnamese Olympiad in Informatics](https://oj.vnoi.info/problems/?category=7&point_start=&point_end=)
+- [Vietnamese Olympiad in Informatics (VOI)](https://oj.vnoi.info/problems/?category=7&point_start=&point_end=)
 - [Croatian Open Competition in Informatics (COCI)](https://hsin.hr/coci/)
 - [USA Computing Olympiad (USACO)](http://www.usaco.org/index.php?page=contests)
 - [Central-European Olympiad in Informatics (CEOI)](https://cses.fi/ceoi/list/) (or on the [official site](http://ceoi.inf.elte.hu/))
-- [Baltic Olympiad in Informatics](https://cses.fi/boi/list/)
+- [Baltic Olympiad in Informatics (BOI)](https://cses.fi/boi/list/)
 
 ----
 ## Syllabus
