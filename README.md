@@ -97,7 +97,7 @@ Register accounts on Online Judges:
     - [NBKOJ socdist](https://nbk.homes/problem/socdist) - *Binary Search, Greedy*
     - [NBKOJ countpots](https://nbk.homes/problem/countpots) - *Binary Search, Algebra*
     - [NBKOJ buycard](https://nbk.homes/problem/buycard) - *Binary Search*
-    <!-- - [VNOJ predhbb21_meteor](https://oj.vnoi.info/problem/predhbb21_meteor) - *Binary Search, Geometry, Algebra* -->
-    - [NBKOJ bfbuilding](https://nbk.homes/problem/bfbuilding) - *Ternary Search*
-    - [NBKOJ weakseg](https://nbk.homes/problem/weakseg) - *Ternary Search*
+    - [VNOJ predhbb21_meteor](https://oj.vnoi.info/problem/predhbb21_meteor) - *Binary Search, Geometry, Algebra*
+    - [NBKOJ bfwall](https://nbk.homes/problem/bfwall) - *Ternary Search*
+    - [Codeforces Nghèo nàn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/B) - *Ternary Search*
     <!-- - [LQDOJ surebet](https://lqdoj.edu.vn/problem/surebet) - *Ternary Search* -->
