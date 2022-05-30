@@ -102,7 +102,7 @@ Register accounts on Online Judges:
     - [Codeforces Weakness and Poorness](https://codeforces.com/problemset/problem/578/C) - *Ternary Search*
     - [LQDOJ surebet](https://lqdoj.edu.vn/problem/surebet) - *Binary Search, Ternary Search, Two Pointers*
 
-- **Week 4 (05.30 - 06.05)**
+- **Week 5 (05.30 - 06.05)**
 
     (06.02) Dynamic Programming (DP) Fundamental
     - [VNOJ nkpalin](https://oj.vnoi.info/problem/nkpalin) - *DP, Tracing*
