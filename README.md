@@ -35,38 +35,38 @@ Register accounts on Online Judges:
 ----
 ## Syllabus
 
-- **Week 1 (07.03 - 13.03)**
+- **Week 1 (03.07 - 03.13)**
 
-    (08.03) Brute-force:
+    (03.08) Brute-force:
     - [NBKOJ bfknight](https://nbk.homes/problem/bfknight) - *Recursion, Backtracking*
     - [NBKOJ bfgene](https://nbk.homes/problem/bfgene) - *Brute-force*
     - [NBKOJ bfdiv](https://nbk.homes/problem/bfdiv) - *Meet in the middle*
 
-    (10.03) Prefix Sum, Prefix Sum 2D:
+    (03.10) Prefix Sum, Prefix Sum 2D:
     - [NBKOJ plants](https://nbk.homes/problem/plants) - *Brute-force, Prefix Sum 2D* 
     - [NBKOJ voi18bonus](https://nbk.homes/problem/voi18bonus) - *Inclusion-Exclusion Principle, Prefix Sum 2D*
 
-    (12.03) Number Theory:
+    (03.12) Number Theory:
     - [NBKOJ exp](https://nbk.homes/problem/exp) - *Number Theory, Binary Exponentiation*
     - [NBKOJ coprimearr](https://nbk.homes/problem/coprimearr) - *Sieve, Inclusion-Exclusion Principle*
     - [NBKOJ bfpermstr](https://nbk.homes/problem/bfpermstr) - *Combinatorics, Modular Inverse*
     - [NBKOJ bfcomb](https://nbk.homes/problem/bfcomb) - *Combinatorics, Modular Inverse*
 
-- **Week 2 (14.03 - 20.03)**
+- **Week 2 (03.14 - 03.20)**
 
-    (15.03) Graph Fundamental, BFS, DFS
+    (03.15) Graph Fundamental, BFS, DFS
     - [VNOJ ads](https://oj.vnoi.info/problem/ads) - *Bfs, Dfs*
     - [NBKOJ bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
     - [NBKOJ sumsubtree](https://nbk.homes/problem/sumsubtree) - *Dfs, Segment Tree / Fenwick Tree*
 
-    (17.03) Binary Search, Two Pointers
+    (03.17) Binary Search, Two Pointers
     - [NBKOJ mtwalk](https://nbk.homes/problem/mtwalk) - *Binary Search, Bfs, Dfs*
     - [NBKOJ voi15mincut](https://nbk.homes/problem/voi15mincut) - *Binary Search, Prefix Sum 2D*
     - [NBKOJ voi14minroad](https://nbk.homes/problem/voi14minroad) - *Binary Search, Two Pointers*
 
-- **Week 3 (16.05 - 22.05)**
+- **Week 3 (05.16 - 05.22)**
   
-    (20.05) Sieve
+    (05.20) Sieve
     - [NBKOJ cntdiv](https://nbk.homes/problem/cntdiv) - *Number Theory, Sieve*
     - [NBKOJ commondiv](https://nbk.homes/problem/commondiv) - *Sieve*
     - [NBKOJ natdiv](https://nbk.homes/problem/natdiv) - *Sieve, Prefix Sum*
@@ -74,7 +74,7 @@ Register accounts on Online Judges:
     - [VNOJ dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) - *Sieve, Prefix Sum*
     - [NBKOJ bfprimediv](https://nbk.homes/problem/bfprimediv) - *Sieve, Inclusion-Exclusion Principle*
 
-    (21.05) Number Theory
+    (05.21) Number Theory
     - [VNOJ fcb005_lcmseq](https://oj.vnoi.info/problem/fcb005_lcmseq) - *Number Theory, Dynamic Programming (DP)*
     - [NBKOJ sumdivisors](https://nbk.homes/problem/sumdivisors) - *Number Theory*
     - [NBKOJ bddivan](http://nbk.homes/problem/bddivan) - *Number Theory, DP, Binary Exponentiation, Modular Inverse*
@@ -82,9 +82,9 @@ Register accounts on Online Judges:
     - [NBKOJ cwdsquare](https://nbk.homes/problem/cwdsquare) - *Number Theory, Data Structure*
     - [NBKOJ cntdiv2](https://nbk.homes/problem/cntdiv2) - *Sieve, Number Theory*
 
-- **Week 4 (23.05 - 29.05)**
+- **Week 4 (05.23 - 05.29)**
 
-    (26.05) Binary Search, Two Pointers
+    (05.26) Binary Search, Two Pointers
     - [VNOJ nksgame](https://oj.vnoi.info/problem/nksgame) - *Binary Search, Two Pointers*
     - [VNOJ ndccard](https://oj.vnoi.info/problem/ndccard) - *Two Pointers*
     - [LQDOJ bosotg](https://lqdoj.edu.vn/problem/1819bosotg) - *Binary Search, Two Pointers*
@@ -93,7 +93,7 @@ Register accounts on Online Judges:
     - [NBKOJ qn21dance](https://nbk.homes/problem/qn21dance) - *Two Pointers*
     - [VNOJ vmquabeo](https://oj.vnoi.info/problem/vmquabeo) - *Two Pointers, Data Structures*
 
-    (28.05) Binary Search, Ternary Search
+    (05.28) Binary Search, Ternary Search
     - [NBKOJ socdist](https://nbk.homes/problem/socdist) - *Binary Search, Greedy*
     - [NBKOJ countpots](https://nbk.homes/problem/countpots) - *Binary Search, Algebra*
     - [NBKOJ buycard](https://nbk.homes/problem/buycard) - *Binary Search*
@@ -101,3 +101,10 @@ Register accounts on Online Judges:
     - [NBKOJ bfwall](https://nbk.homes/problem/bfwall) - *Ternary Search*
     - [Codeforces Weakness and Poorness](https://codeforces.com/problemset/problem/578/C) - *Ternary Search*
     - [LQDOJ surebet](https://lqdoj.edu.vn/problem/surebet) - *Binary Search, Ternary Search, Two Pointers*
+
+- **Week 4 (05.30 - 06.05)**
+
+    (06.02) Dynamic Programming (DP) Fundamental
+    - [VNOJ nkpalin](https://oj.vnoi.info/problem/nkpalin) - *DP, Tracing*
+    - [NBKOJ bfprincess](https://nbk.homes/problem/bfprincess) - *DP*
+    - [VNOJ binpack](https://oj.vnoi.info/problem/binpack) - *Brute-force, Greedy, DP*
