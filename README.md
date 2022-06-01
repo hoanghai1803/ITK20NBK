@@ -108,3 +108,12 @@ Register accounts on Online Judges:
     - [VNOJ nkpalin](https://oj.vnoi.info/problem/nkpalin) - *DP, Tracing*
     - [NBKOJ bfprincess](https://nbk.homes/problem/bfprincess) - *DP*
     - [VNOJ binpack](https://oj.vnoi.info/problem/binpack) - *Brute-force, Greedy, DP*
+
+    *Recommendation:* [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
+    
+    (06.04) DP Practising
+    - [VNOJ qbmarket](https://oj.vnoi.info/problem/qbmarket) - *DP*
+    - [VNOJ stmerge](https://oj.vnoi.info/problem/stmerge) - *DP*
+    - [VNOJ dttui2](https://oj.vnoi.info/problem/dttui2) - *DP*
+    - [NBKOJ qn21altstr](https://nbk.homes/problem/qn21altstr) - *DP*
+    - [NBKOJ reordering](https://nbk.homes/problem/reordering) - *DP, Combinatorics*
