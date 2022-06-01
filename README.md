@@ -109,7 +109,7 @@ Register accounts on Online Judges:
     - [NBKOJ bfprincess](https://nbk.homes/problem/bfprincess) - *DP*
     - [VNOJ binpack](https://oj.vnoi.info/problem/binpack) - *Brute-force, Greedy, DP*
 
-    *Recommendation:* [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
+    *Recommendation:* [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
     
     (06.04) DP Practising
     - [VNOJ qbmarket](https://oj.vnoi.info/problem/qbmarket) - *DP*
