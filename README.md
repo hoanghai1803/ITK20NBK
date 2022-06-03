@@ -115,6 +115,6 @@ Register accounts on Online Judges:
     - [VNOJ qbmarket](https://oj.vnoi.info/problem/qbmarket) - *DP*
     - [VNOJ stmerge](https://oj.vnoi.info/problem/stmerge) - *DP*
     - [NBKOJ qn21altstr](https://nbk.homes/problem/qn21altstr) - *DP*
-    - [VNOJ dttui2](https://oj.vnoi.info/problem/dttui2) - *DP*
+    - [NBKOJ dttui2](https://nbk.homes/problem/dttui2) - *DP*
     - [NBKOJ reordering](https://nbk.homes/problem/reordering) - *DP, Combinatorics*
     - [VNOJ voi17virus](https://oj.vnoi.info/problem/voi17virus) - *DP*
