@@ -114,7 +114,7 @@ Register accounts on Online Judges:
     (06.04) DP Practising
     - [VNOJ qbmarket](https://oj.vnoi.info/problem/qbmarket) - *DP*
     - [VNOJ stmerge](https://oj.vnoi.info/problem/stmerge) - *DP*
-    - [NBKOJ qn21altstr](https://nbk.homes/problem/qn21altstr) - *DP*
+    - [NBKOJ qn21altstr](https://nbk.homes/problem/qn21altstr) - *DP, Data Structures*
     - [NBKOJ dttui2](https://nbk.homes/problem/dttui2) - *DP*
     - [NBKOJ reordering](https://nbk.homes/problem/reordering) - *DP, Combinatorics, Modular Inverse*
     - [VNOJ voi17virus](https://oj.vnoi.info/problem/voi17virus) - *DP*
