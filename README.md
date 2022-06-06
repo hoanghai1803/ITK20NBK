@@ -118,3 +118,18 @@ Register accounts on Online Judges:
     - [NBKOJ dttui2](https://nbk.homes/problem/dttui2) - *DP*
     - [NBKOJ reordering](https://nbk.homes/problem/reordering) - *DP, Combinatorics, Modular Inverse*
     - [VNOJ voi17virus](https://oj.vnoi.info/problem/voi17virus) - *DP*
+
+- **Week 6 (06.06 - 06.12)**
+
+    (06.09) Data Structures
+    - [VNOJ nkcard](https://oj.vnoi.info/problem/nkcard) <!-- - *Linked List* -->
+    - [NBKOJ teammem](https://nbk.homes/problem/teammem) <!-- - *Linked List* -->
+    - [NBKOJ rmdupl](https://nbk.homes/problem/rmdupl) <!-- - *Stack* -->
+    - [Hackerrank balanced-brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) <!-- - *Stack* -->
+    - [VNOJ kplank](https://oj.vnoi.info/problem/kplank) <!-- - *Stack* -->
+    - [VNOJ kagain](https://oj.vnoi.info/problem/kagain) <!-- - *Stack* -->
+    <!-- - [NBKOJ overflow]() -
+    - [NBKOJ cute]() -
+    - [NBKOJ ]()
+
+    (06.11) Data Structures -->
