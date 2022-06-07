@@ -129,5 +129,7 @@ Register accounts on Online Judges:
     - [[ VNOJ ] kplank](https://oj.vnoi.info/problem/kplank) <!-- - *Stack* -->
     - [[ VNOJ ] kagain](https://oj.vnoi.info/problem/kagain) <!-- - *Stack* -->
     - [[ Codeforces ] Catch Overflow!](https://codeforces.com/problemset/problem/1175/B)
+    - [[ Codeforces ] Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)
+    - [[ Codeforces ] Mike and Feet](https://codeforces.com/contest/547/problem/B)
 
     <!-- (06.11) Data Structures -->
