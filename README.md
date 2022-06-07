@@ -122,14 +122,14 @@ Register accounts on Online Judges:
 - **Week 6 (06.06 - 06.12)**
 
     (06.09) Data Structures
-    - [[ VNOJ ] nkcard](https://oj.vnoi.info/problem/nkcard) <!-- - *Linked List* -->
-    - [[ NBKOJ ] teammem](https://nbk.homes/problem/teammem) <!-- - *Linked List* -->
-    - [[ NBKOJ ] rmdupl](https://nbk.homes/problem/rmdupl) <!-- - *Stack* -->
-    - [[ Hackerrank ] balanced-brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) <!-- - *Stack* -->
-    - [[ VNOJ ] kplank](https://oj.vnoi.info/problem/kplank) <!-- - *Stack* -->
-    - [[ VNOJ ] kagain](https://oj.vnoi.info/problem/kagain) <!-- - *Stack* -->
-    - [[ Codeforces ] Catch Overflow!](https://codeforces.com/problemset/problem/1175/B)
-    - [[ Codeforces ] Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)
-    - [[ Codeforces ] Mike and Feet](https://codeforces.com/contest/547/problem/B)
+    - [[ VNOJ ] nkcard](https://oj.vnoi.info/problem/nkcard) - *Linked List*
+    - [[ NBKOJ ] teammem](https://nbk.homes/problem/teammem) - *Linked List*
+    - [[ NBKOJ ] rmdupl](https://nbk.homes/problem/rmdupl) - *Stack*
+    - [[ Hackerrank ] balanced-brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) - *Stack*
+    - [[ VNOJ ] kplank](https://oj.vnoi.info/problem/kplank) - *Stack*
+    - [[ VNOJ ] kagain](https://oj.vnoi.info/problem/kagain) - *Stack*
+    - [[ Codeforces ] Catch Overflow!](https://codeforces.com/problemset/problem/1175/B) - *Stack*
+    - [[ Codeforces ] Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B) - *Stack*
+    - [[ Codeforces ] Mike and Feet](https://codeforces.com/contest/547/problem/B) - *Stack*
 
     <!-- (06.11) Data Structures -->
