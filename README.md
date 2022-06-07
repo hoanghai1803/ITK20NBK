@@ -132,4 +132,20 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B) - *Stack*
     - [[ Codeforces ] Mike and Feet](https://codeforces.com/contest/547/problem/B) - *Stack*
 
-    <!-- (06.11) Data Structures -->
+    (06.11) Data Structures
+    - [[ VNOJ ] mink](https://oj.vnoi.info/problem/mink) - *Deque*
+    - [[ VNOJ ] ptqmseq](https://oj.vnoi.info/problem/ptqmseq) -  *Deque, DP*
+    - [[ VNOJ ] kdiff](https://oj.vnoi.info/problem/kdiff) - *Deque, DP*
+    - [[ VNOJ ] qbrect](https://oj.vnoi.info/problem/qbrect) - *Stack, DP*
+    - [[ VNOJ ] qbsquare](https://oj.vnoi.info/problem/qbsquare) - *Stack, DP*
+    - [[ VNOJ ] crec01](https://oj.vnoi.info/problem/crec01) - *Stack, DP*
+    - [[ VNOJ ] crect](https://oj.vnoi.info/problem/crect) - *Stack, DP, Combinatorics*
+
+
+<!-- - **Week 7 (06.13 - 06.19)**
+
+    (06.16) Data Structures
+    - [[ VNOJ ] nkseq](https://oj.vnoi.info/problem/nkseq) - *Prefix Sum*
+    - [[ VNOJ ] mse07b](https://oj.vnoi.info/problem/mse07b) - *Set*
+    - [[ NBKOJ ] qn20poster](https://nbk.homes/problem/qn20poster) - *Stack, DP*
+    -  -->
