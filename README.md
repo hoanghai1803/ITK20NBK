@@ -130,11 +130,11 @@ Register accounts on Online Judges:
     - [[ VNOJ ] kagain](https://oj.vnoi.info/problem/kagain) - *Stack*
     - [[ Codeforces ] Catch Overflow!](https://codeforces.com/problemset/problem/1175/B) - *Stack*
     - [[ Codeforces ] Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B) - *Stack*
-    - [[ Codeforces ] Mike and Feet](https://codeforces.com/contest/547/problem/B) - *Stack*
+    - [[ Codeforces ] Mike and Feet](https://codeforces.com/contest/547/problem/B) - *Stack, DP*
 
     (06.11) Data Structures
     - [[ VNOJ ] mink](https://oj.vnoi.info/problem/mink) - *Deque*
-    - [[ VNOJ ] ptqmseq](https://oj.vnoi.info/problem/ptqmseq) -  *Deque, DP*
+    - [[ VNOJ ] ptqmseq](https://oj.vnoi.info/problem/ptqmseq) -  *Deque, Prefix Sum*
     - [[ VNOJ ] kdiff](https://oj.vnoi.info/problem/kdiff) - *Deque, DP*
     - [[ VNOJ ] qbrect](https://oj.vnoi.info/problem/qbrect) - *Stack, DP*
     - [[ VNOJ ] qbsquare](https://oj.vnoi.info/problem/qbsquare) - *Stack, DP*
@@ -146,6 +146,10 @@ Register accounts on Online Judges:
 
     (06.16) Data Structures
     - [[ VNOJ ] nkseq](https://oj.vnoi.info/problem/nkseq) - *Prefix Sum*
+    - [[ NBKOJ ] sum4](https://nbk.homes/problem/sum4) - *Set, Map*
     - [[ VNOJ ] mse07b](https://oj.vnoi.info/problem/mse07b) - *Set*
     - [[ NBKOJ ] qn20poster](https://nbk.homes/problem/qn20poster) - *Stack, DP*
-    -  -->
+    - [[ VNOJ ] qbheap](https://oj.vnoi.info/problem/qbheap) - *Heap (Priority_Queue)*
+    - [[ VNOJ ] heap1](https://oj.vnoi.info/problem/heap1) - *Heap*
+    - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap*
+    - [[ Codeforces ] OpenStreetMap](https://codeforces.com/contest/1195/problem/E) - *Deque, DP* -->
