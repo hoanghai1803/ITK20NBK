@@ -142,7 +142,7 @@ Register accounts on Online Judges:
     - [[ VNOJ ] crect](https://oj.vnoi.info/problem/crect) - *Stack, DP, Combinatorics*
 
 
-<!-- - **Week 7 (06.13 - 06.19)**
+- **Week 7 (06.13 - 06.19)**
 
     (06.16) Data Structures
     - [[ VNOJ ] nkseq](https://oj.vnoi.info/problem/nkseq) - *Prefix Sum*
@@ -152,4 +152,4 @@ Register accounts on Online Judges:
     - [[ VNOJ ] qbheap](https://oj.vnoi.info/problem/qbheap) - *Heap (Priority_Queue)*
     - [[ VNOJ ] heap1](https://oj.vnoi.info/problem/heap1) - *Heap*
     - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap*
-    - [[ Codeforces ] OpenStreetMap](https://codeforces.com/contest/1195/problem/E) - *Deque, DP* -->
+    - [[ Codeforces ] OpenStreetMap](https://codeforces.com/contest/1195/problem/E) - *Deque, DP*
