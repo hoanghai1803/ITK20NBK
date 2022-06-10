@@ -148,7 +148,7 @@ Register accounts on Online Judges:
     - [[ VNOJ ] nkseq](https://oj.vnoi.info/problem/nkseq) - *Prefix Sum*
     - [[ NBKOJ ] sum4](https://nbk.homes/problem/sum4) - *Set, Map*
     - [[ VNOJ ] mse07b](https://oj.vnoi.info/problem/mse07b) - *Set*
-    - [[ NBKOJ ] qn20poster](https://nbk.homes/problem/qn20poster) - *Stack, DP*
+    - [[ NBKOJ ] qn18poster](https://nbk.homes/problem/qn18poster) - *Stack, DP*
     - [[ VNOJ ] qbheap](https://oj.vnoi.info/problem/qbheap) - *Heap (Priority_Queue)*
     - [[ VNOJ ] heap1](https://oj.vnoi.info/problem/heap1) - *Heap*
     - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap*
