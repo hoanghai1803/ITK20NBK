@@ -146,9 +146,9 @@ Register accounts on Online Judges:
 
     (06.16) Data Structures
     - [[ VNOJ ] nkseq](https://oj.vnoi.info/problem/nkseq) - *Prefix Sum*
-    - [[ NBKOJ ] sum4](https://nbk.homes/problem/sum4) - *Set, Map*
-    - [[ VNOJ ] mse07b](https://oj.vnoi.info/problem/mse07b) - *Set*
-    - [[ NBKOJ ] qn18poster](https://nbk.homes/problem/qn18poster) - *Stack, DP*
+    - [[ NBKOJ ] sum4](https://nbk.homes/problem/sum4) - *Data Structures*
+    - [[ VNOJ ] mse07b](https://oj.vnoi.info/problem/mse07b) - *Data Structures*
+    - [[ NBKOJ ] qn18poster](https://nbk.homes/problem/qn18poster) - *DP, Data Structures*
     - [[ VNOJ ] qbheap](https://oj.vnoi.info/problem/qbheap) - *Heap (Priority_Queue)*
     - [[ VNOJ ] heap1](https://oj.vnoi.info/problem/heap1) - *Heap*
     - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap*
