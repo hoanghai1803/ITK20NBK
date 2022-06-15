@@ -150,6 +150,6 @@ Register accounts on Online Judges:
     - [[ VNOJ ] mse07b](https://oj.vnoi.info/problem/mse07b) - *Data Structures*
     - [[ NBKOJ ] qn18poster](https://nbk.homes/problem/qn18poster) - *DP, Data Structures*
     - [[ VNOJ ] qbheap](https://oj.vnoi.info/problem/qbheap) - *Heap (Priority_Queue)*
-    - [[ VNOJ ] heap1](https://oj.vnoi.info/problem/heap1) - *Heap*
-    - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap*
+    - [[ VNOJ ] heap1](https://oj.vnoi.info/problem/heap1) - *Heap, Greedy*
+    - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap, Greedy*
     - [[ Codeforces ] OpenStreetMap](https://codeforces.com/contest/1195/problem/E) - *Deque, DP*
