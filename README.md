@@ -121,7 +121,7 @@ Register accounts on Online Judges:
 
 - **Week 6 (06.06 - 06.12)**
 
-    (06.09) Data Structures
+    (06.09) DP, Data Structures
     - [[ VNOJ ] nkcard](https://oj.vnoi.info/problem/nkcard) - *Linked List*
     - [[ NBKOJ ] teammem](https://nbk.homes/problem/teammem) - *Linked List*
     - [[ NBKOJ ] rmdupl](https://nbk.homes/problem/rmdupl) - *Stack*
@@ -132,7 +132,7 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B) - *Stack*
     - [[ Codeforces ] Mike and Feet](https://codeforces.com/contest/547/problem/B) - *Stack, DP*
 
-    (06.11) Data Structures
+    (06.11) DP, Data Structures
     - [[ VNOJ ] mink](https://oj.vnoi.info/problem/mink) - *Deque*
     - [[ VNOJ ] ptqmseq](https://oj.vnoi.info/problem/ptqmseq) -  *Deque, Prefix Sum*
     - [[ VNOJ ] kdiff](https://oj.vnoi.info/problem/kdiff) - *Deque, DP*
@@ -144,7 +144,7 @@ Register accounts on Online Judges:
 
 - **Week 7 (06.13 - 06.19)**
 
-    (06.16) Data Structures
+    (06.16) DP, Data Structures
     - [[ VNOJ ] nkseq](https://oj.vnoi.info/problem/nkseq) - *Prefix Sum*
     - [[ NBKOJ ] sum4](https://nbk.homes/problem/sum4) - *Data Structures*
     - [[ VNOJ ] mse07b](https://oj.vnoi.info/problem/mse07b) - *Data Structures*
@@ -154,10 +154,11 @@ Register accounts on Online Judges:
     - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap, Greedy*
     - [[ Codeforces ] OpenStreetMap](https://codeforces.com/contest/1195/problem/E) - *Deque, DP*
 
-    (06.18) Data Structures
+    (06.18) DP, Data Structures
     - [[ VNOJ ] qmax](https://oj.vnoi.info/problem/qmax) - *Segment Tree*
     - [[ NBKOJ ] drsq](https://nbk.homes/problem/drsq) - *Segment Tree, Fenwick Tree*
     - [[ VNOJ ] nkinv](https://oj.vnoi.info/problem/nkinv) - *Segment Tree, Fenwick Tree*
     - [[ NBKOJ ] ruq](https://nbk.homes/problem/ruq) - *Segment Tree, Fenwick Tree*
     - [[ VNOJ ] nkrez](https://oj.vnoi.info/problem/nkrez) - *DP, Segment Tree, Fenwick Tree*
+    - [[ Codeforces ] Subsequences](https://codeforces.com/contest/597/problem/C) - *DP, Segment Tree, Fenwick Tree*
     - [[ VNOJ ] pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4) - *DP, Segment Tree, Fenwick Tree*
