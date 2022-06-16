@@ -153,3 +153,11 @@ Register accounts on Online Judges:
     - [[ VNOJ ] heap1](https://oj.vnoi.info/problem/heap1) - *Heap, Greedy*
     - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap, Greedy*
     - [[ Codeforces ] OpenStreetMap](https://codeforces.com/contest/1195/problem/E) - *Deque, DP*
+
+    (06.18) Data Structures
+    - [[ VNOJ ] qmax](https://oj.vnoi.info/problem/qmax) - *Segment Tree*
+    - [[ NBKOJ ] drsq](https://nbk.homes/problem/drsq) - *Segment Tree, Fenwick Tree*
+    - [[ VNOJ ] nkinv](https://oj.vnoi.info/problem/nkinv) - *Segment Tree, Fenwick Tree*
+    - [[ NBKOJ ] ruq](https://nbk.homes/problem/ruq) - *Segment Tree, Fenwick Tree*
+    - [[ VNOJ ] nkrez](https://oj.vnoi.info/problem/nkrez) - *DP, Segment Tree, Fenwick Tree*
+    - [[ VNOJ ] pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4) - *DP, Segment Tree, Fenwick Tree*
