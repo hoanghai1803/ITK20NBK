@@ -162,3 +162,12 @@ Register accounts on Online Judges:
     - [[ VNOJ ] nkrez](https://oj.vnoi.info/problem/nkrez) - *DP, Segment Tree, Fenwick Tree*
     - [[ Codeforces ] Subsequences](https://codeforces.com/contest/597/problem/C) - *DP, Segment Tree, Fenwick Tree*
     - [[ VNOJ ] pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4) - *DP, Segment Tree, Fenwick Tree*
+
+
+- **Week 8 (06.20 - 06.26)**
+
+    (06.23) DP, Data Structures
+    - [[ VNOJ ] kquery](https://oj.vnoi.info/problem/KQUERY) - *Segment Tree, Fenwick Tree*
+    - [[ VNOJ ] qmax2](https://oj.vnoi.info/problem/qmax2) - *Segment Tree*
+    - [[ VNOJ ] lites](https://oj.vnoi.info/problem/lites) - *Segment Tree*
+    - [[ VNOJ ] nkbracke](https://oj.vnoi.info/problem/nkbracke) - *Segment Tree*
