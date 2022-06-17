@@ -155,7 +155,7 @@ Register accounts on Online Judges:
     - [[ Codeforces ] OpenStreetMap](https://codeforces.com/contest/1195/problem/E) - *Deque, DP*
 
     (06.18) DP, Data Structures
-    - [[ VNOJ ] qmax](https://oj.vnoi.info/problem/qmax) - *Segment Tree*
+    - [[ VNOJ ] qmax](https://oj.vnoi.info/problem/qmax) - *Prefix Sum, Segment Tree, Sparse Table*
     - [[ NBKOJ ] drsq](https://nbk.homes/problem/drsq) - *Segment Tree, Fenwick Tree*
     - [[ VNOJ ] nkinv](https://oj.vnoi.info/problem/nkinv) - *Segment Tree, Fenwick Tree*
     - [[ NBKOJ ] ruq](https://nbk.homes/problem/ruq) - *Segment Tree, Fenwick Tree*
