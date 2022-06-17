@@ -168,9 +168,9 @@ Register accounts on Online Judges:
 
     (06.23) DP, Data Structures
     - [[ VNOJ ] kquery](https://oj.vnoi.info/problem/KQUERY) - *Segment Tree, Fenwick Tree*
+    - [[ NBKOJ ] lbst](https://nbk.homes/problem/lbst) - *Segment Tree, Binary Search*
     - [[ VNOJ ] qmax2](https://oj.vnoi.info/problem/qmax2) - *Segment Tree*
     - [[ VNOJ ] lites](https://oj.vnoi.info/problem/lites) - *Segment Tree*
     - [[ VNOJ ] nkbracke](https://oj.vnoi.info/problem/nkbracke) - *Segment Tree*
     - [[ NBKOJ ] updassign](https://nbk.homes/problem/updassign) - *Segment Tree*
     - [[ NBKOJ ] polyquery](https://nbk.homes/problem/polyquery) - *Segment Tree*
-    - [[ NBKOJ ] lbst](https://nbk.homes/problem/lbst) - *Segment Tree, Binary Search*
