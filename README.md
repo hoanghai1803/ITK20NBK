@@ -173,3 +173,4 @@ Register accounts on Online Judges:
     - [[ VNOJ ] nkbracke](https://oj.vnoi.info/problem/nkbracke) - *Segment Tree*
     - [[ NBKOJ ] updassign](https://nbk.homes/problem/updassign) - *Segment Tree*
     - [[ NBKOJ ] polyquery](https://nbk.homes/problem/polyquery) - *Segment Tree*
+    - [[ NBKOJ ] lbst](https://nbk.homes/problem/lbst) - *Segment Tree, Binary Search*
