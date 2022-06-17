@@ -158,7 +158,7 @@ Register accounts on Online Judges:
     - [[ VNOJ ] qmax](https://oj.vnoi.info/problem/qmax) - *Prefix Sum, Segment Tree, Sparse Table*
     - [[ NBKOJ ] drsq](https://nbk.homes/problem/drsq) - *Segment Tree, Fenwick Tree*
     - [[ VNOJ ] nkinv](https://oj.vnoi.info/problem/nkinv) - *Segment Tree, Fenwick Tree*
-    - [[ NBKOJ ] ruq](https://nbk.homes/problem/ruq) - *Segment Tree, Fenwick Tree*
+    - [[ NBKOJ ] ruq](https://nbk.homes/problem/ruq) - *Difference Array, Segment Tree, Fenwick Tree*
     - [[ VNOJ ] nkrez](https://oj.vnoi.info/problem/nkrez) - *DP, Segment Tree, Fenwick Tree*
     - [[ Codeforces ] Subsequences](https://codeforces.com/contest/597/problem/C) - *DP, Segment Tree, Fenwick Tree*
     - [[ VNOJ ] pvoi14_4](https://oj.vnoi.info/problem/pvoi14_4) - *DP, Segment Tree, Fenwick Tree*
