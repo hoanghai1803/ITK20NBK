@@ -171,3 +171,5 @@ Register accounts on Online Judges:
     - [[ VNOJ ] qmax2](https://oj.vnoi.info/problem/qmax2) - *Segment Tree*
     - [[ VNOJ ] lites](https://oj.vnoi.info/problem/lites) - *Segment Tree*
     - [[ VNOJ ] nkbracke](https://oj.vnoi.info/problem/nkbracke) - *Segment Tree*
+    - [[ NBKOJ ] updassign](https://nbk.homes/problem/updassign) - *Segment Tree*
+    - [[ NBKOJ ] polyquery](https://nbk.homes/problem/polyquery) - *Segment Tree*
