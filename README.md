@@ -121,7 +121,7 @@ Register accounts on Online Judges:
 
 - **Week 6 (06.06 - 06.12)**
 
-    (06.09) DP, Data Structures
+    (06.09) DP, Data Structures (Linked List, Stack)
     - [[ VNOJ ] nkcard](https://oj.vnoi.info/problem/nkcard) - *Linked List*
     - [[ NBKOJ ] teammem](https://nbk.homes/problem/teammem) - *Linked List*
     - [[ NBKOJ ] rmdupl](https://nbk.homes/problem/rmdupl) - *Stack*
@@ -132,7 +132,7 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B) - *Stack*
     - [[ Codeforces ] Mike and Feet](https://codeforces.com/contest/547/problem/B) - *Stack, DP*
 
-    (06.11) DP, Data Structures
+    (06.11) DP, Data Structures (Stack, Deque)
     - [[ VNOJ ] mink](https://oj.vnoi.info/problem/mink) - *Deque*
     - [[ VNOJ ] ptqmseq](https://oj.vnoi.info/problem/ptqmseq) -  *Deque, Prefix Sum*
     - [[ VNOJ ] kdiff](https://oj.vnoi.info/problem/kdiff) - *Deque, DP*
@@ -144,7 +144,7 @@ Register accounts on Online Judges:
 
 - **Week 7 (06.13 - 06.19)**
 
-    (06.16) DP, Data Structures
+    (06.16) DP, Data Structures Practising
     - [[ VNOJ ] nkseq](https://oj.vnoi.info/problem/nkseq) - *Prefix Sum*
     - [[ NBKOJ ] sum4](https://nbk.homes/problem/sum4) - *Data Structures*
     - [[ VNOJ ] mse07b](https://oj.vnoi.info/problem/mse07b) - *Data Structures*
@@ -154,7 +154,7 @@ Register accounts on Online Judges:
     - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap, Greedy*
     - [[ Codeforces ] OpenStreetMap](https://codeforces.com/contest/1195/problem/E) - *Deque, DP*
 
-    (06.18) DP, Data Structures
+    (06.18) DP, Data Structures (Segment Tree, Fenwick Tree)
     - [[ VNOJ ] qmax](https://oj.vnoi.info/problem/qmax) - *Prefix Sum, Segment Tree, Sparse Table*
     - [[ NBKOJ ] drsq](https://nbk.homes/problem/drsq) - *Segment Tree, Fenwick Tree*
     - [[ VNOJ ] nkinv](https://oj.vnoi.info/problem/nkinv) - *Segment Tree, Fenwick Tree*
@@ -166,7 +166,7 @@ Register accounts on Online Judges:
 
 - **Week 8 (06.20 - 06.26)**
 
-    (06.23) DP, Data Structures
+    (06.23) DP, Data Structures (Advanced Segment Tree)
     - [[ VNOJ ] kquery](https://oj.vnoi.info/problem/KQUERY) - *Segment Tree, Fenwick Tree*
     - [[ NBKOJ ] lbst](https://nbk.homes/problem/lbst) - *Segment Tree, Binary Search*
     - [[ VNOJ ] qmax2](https://oj.vnoi.info/problem/qmax2) - *Segment Tree*
