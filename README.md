@@ -166,7 +166,7 @@ Register accounts on Online Judges:
 
 - **Week 8 (06.20 - 06.26)**
 
-    (06.23) DP, Data Structures (Advanced Segment Tree)
+    (06.23) DP, Data Structures (Advanced Segment Tree & Fenwick Tree)
     - [[ VNOJ ] kquery](https://oj.vnoi.info/problem/KQUERY) - *Segment Tree, Fenwick Tree*
     - [[ NBKOJ ] lbst](https://nbk.homes/problem/lbst) - *Segment Tree, Binary Search*
     - [[ VNOJ ] qmax2](https://oj.vnoi.info/problem/qmax2) - *Segment Tree*
@@ -174,3 +174,10 @@ Register accounts on Online Judges:
     - [[ VNOJ ] nkbracke](https://oj.vnoi.info/problem/nkbracke) - *Segment Tree*
     - [[ NBKOJ ] updassign](https://nbk.homes/problem/updassign) - *Segment Tree*
     - [[ NBKOJ ] polyquery](https://nbk.homes/problem/polyquery) - *Segment Tree*
+
+    (06.25) DP, Data Structures (Advanced Segment Tree & Fenwick Tree)
+    - [[ NBKOJ ] playground](https://nbk.homes/problem/playground) - *Segment Tree, Binary Search*
+    - [[ VNOJ ] segtree_itds1](https://oj.vnoi.info/problem/segtree_itds1) - *Segment Tree, Data Structures*
+    - [[ NBKOJ ] bfprincess2](https://nbk.homes/problem/bfprincess2) - *Segment Tree, Fenwick Tree*
+    - [[ VNOJ ] bgmine](https://oj.vnoi.info/problem/bgmine) - *Segment Tree, Fenwick Tree*
+    - [[ Codeforces] Tokitsukaze and Strange Rectangle](https://codeforces.com/contest/1190/problem/D) - *Segment Tree, Fenwick Tree*
