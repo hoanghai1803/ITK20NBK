@@ -180,5 +180,5 @@ Register accounts on Online Judges:
     - [[ NBKOJ] bfhorses](https://nbk.homes/problem/bfhorses) - *Segment Tree, Binary Search*
     - [[ VNOJ ] segtree_itds1](https://oj.vnoi.info/problem/segtree_itds1) - *Segment Tree, Data Structures*
     - [[ NBKOJ ] bfprincess2](https://nbk.homes/problem/bfprincess2) - *Segment Tree, Fenwick Tree*
-    - [[ VNOJ ] bgmine](https://oj.vnoi.info/problem/bgmine) - *Segment Tree, Fenwick Tree*
+    - [[ VNOJ ] bgmine](https://oj.vnoi.info/problem/bgmine) - *Segment Tree, Fenwick Tree, Binary Search, Prefix Sum*
     - [[ Codeforces] Tokitsukaze and Strange Rectangle](https://codeforces.com/contest/1190/problem/D) - *Segment Tree, Fenwick Tree*
