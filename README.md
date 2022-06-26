@@ -167,7 +167,7 @@ Register accounts on Online Judges:
 - **Week 8 (06.27 - 07.03)**
 
     (06.30) DP, Data Structures (Advanced Segment Tree & Fenwick Tree)
-    - [[ VNOJ ] kquery](https://oj.vnoi.info/problem/KQUERY) - *Segment Tree, Fenwick Tree*
+    - [[ VNOJ ] kquery](https://oj.vnoi.info/problem/KQUERY) - *Segment Tree, Fenwick Tree, Offline Processing, Binary Search*
     - [[ NBKOJ ] lbst](https://nbk.homes/problem/lbst) - *Segment Tree, Binary Search*
     - [[ VNOJ ] qmax2](https://oj.vnoi.info/problem/qmax2) - *Segment Tree*
     - [[ VNOJ ] lites](https://oj.vnoi.info/problem/lites) - *Segment Tree*
