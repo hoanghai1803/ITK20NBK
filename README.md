@@ -189,3 +189,5 @@ Register accounts on Online Judges:
     - [[ VNOJ ] segtree_itladder](https://oj.vnoi.info/problem/segtree_itladder) - *Segment Tree*
     - [[ VNOJ ] bgmine](https://oj.vnoi.info/problem/bgmine) - *Segment Tree, Fenwick Tree, Binary Search, Prefix Sum*
     - [[ Codeforces] Tokitsukaze and Strange Rectangle](https://codeforces.com/contest/1190/problem/D) - *Segment Tree, Fenwick Tree*
+
+    *Recommendation:* [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
