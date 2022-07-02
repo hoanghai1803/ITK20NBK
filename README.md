@@ -39,7 +39,7 @@ Register accounts on Online Judges:
 
     (03.08) Brute-force:
     - [[ NBKOJ ] bfknight](https://nbk.homes/problem/bfknight) - *Recursion, Backtracking*
-    - [[ NBKOJ ] bfgene](https://nbk.homes/problem/bfgene) - *Brute-force*
+    - [[ NBKOJ ] bfgene](https://nbk.homes/problem/bfgene) - *Brute-force, Data Structures*
     - [[ NBKOJ ] bfdiv](https://nbk.homes/problem/bfdiv) - *Meet in the middle*
 
     (03.10) Prefix Sum, Prefix Sum 2D:
