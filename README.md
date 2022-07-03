@@ -177,7 +177,7 @@ Register accounts on Online Judges:
 
     (07.02) DP, Data Structures (Advanced Segment Tree & Fenwick Tree)
     - [[ NBKOJ ] playground](https://nbk.homes/problem/playground) - *Segment Tree, Binary Search*
-    - [[ NBKOJ] bfhorses](https://nbk.homes/problem/bfhorses) - *Segment Tree, Binary Search*
+    - [[ NBKOJ] bfhorses](https://nbk.homes/problem/bfhorses) - *Segment Tree (Lazy Update), Binary Search*
     - [[ VNOJ ] segtree_itds1](https://oj.vnoi.info/problem/segtree_itds1) - *Segment Tree, Data Structures*
     - [[ NBKOJ ] bfprincess2](https://nbk.homes/problem/bfprincess2) - *Segment Tree 2D, Fenwick Tree 2D*
     - [[ NBKOJ ] sumsubarr](https://nbk.homes/problem/sumsubarr) - *Segment Tree*
