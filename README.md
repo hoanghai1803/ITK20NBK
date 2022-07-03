@@ -194,3 +194,10 @@ Register accounts on Online Judges:
     - [[ VNOJ ] smartdog](https://oj.vnoi.info/problem/smartdog) - *Segment Tree 2D*
 
     *Recommendation:* [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
+
+    (07.09) Data Structures (Disjoint Set Union - DSU)
+    - [[VNOJ] fwater](https://oj.vnoi.info/problem/fwater) - *DSU*
+    - [[VNOJ] pbcgangs](https://oj.vnoi.info/problem/pbcgangs) - *DSU*
+    - [[VNOJ] vosplay](https://oj.vnoi.info/problem/vosplay) - *DSU*
+    - [[NBKOJ] qn16emotor](https://nbk.homes/problem/qn16emotor) - *DSU, Offline Processing, Two Pointers*
+    - [[Codeforces] Path Queries](https://codeforces.com/contest/1213/problem/G) - *DSU, Offline Processing, Two Pointers*
