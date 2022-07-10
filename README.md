@@ -195,9 +195,11 @@ Register accounts on Online Judges:
 
     *Recommendation:* [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
-    (07.09) Data Structures (Disjoint Set Union - DSU)
-    - [[VNOJ] fwater](https://oj.vnoi.info/problem/fwater) - *DSU*
+    (07.09) Disjoint Set Union (DSU) and Minimum Spanning Tree (MST)
     - [[VNOJ] pbcgangs](https://oj.vnoi.info/problem/pbcgangs) - *DSU*
     - [[VNOJ] vosplay](https://oj.vnoi.info/problem/vosplay) - *DSU*
-    - [[NBKOJ] qn16emotor](https://nbk.homes/problem/qn16emotor) - *DSU, Offline Processing, Two Pointers*
-    - [[Codeforces] Path Queries](https://codeforces.com/contest/1213/problem/G) - *DSU, Offline Processing, Two Pointers*
+    - [[VNOJ] fwater](https://oj.vnoi.info/problem/fwater) - *MST*
+    - [[NBKOJ] qn16emotor](https://nbk.homes/problem/qn16emotor) - *MST, Offline Processing, Two Pointers*
+    - [[Codeforces] Path Queries](https://codeforces.com/contest/1213/problem/G) - *MST, Offline Processing, Two Pointers*
+
+#### Practice Contest: [Pre-QNOI 2022#01](https://nbk.homes/contest/preqnoi01)
