@@ -111,7 +111,7 @@ Register accounts on Online Judges:
 
     *Recommendation:* [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) (or [Vietnamese version](https://oj.vnoi.info/contest/atcoder_dp))
     
-    (06.04) DP Practising
+    (06.04) DP Practice
     - [[ VNOJ ] qbmarket](https://oj.vnoi.info/problem/qbmarket) - *DP*
     - [[ VNOJ ] stmerge](https://oj.vnoi.info/problem/stmerge) - *DP*
     - [[ NBKOJ ] qn21altstr](https://nbk.homes/problem/qn21altstr) - *DP, Data Structures*
@@ -144,7 +144,7 @@ Register accounts on Online Judges:
 
 - **Week 7 (06.13 - 06.19)**
 
-    (06.16) DP, Data Structures Practising
+    (06.16) DP, Data Structures Practice
     - [[ VNOJ ] nkseq](https://oj.vnoi.info/problem/nkseq) - *Prefix Sum*
     - [[ NBKOJ ] sum4](https://nbk.homes/problem/sum4) - *Data Structures*
     - [[ VNOJ ] mse07b](https://oj.vnoi.info/problem/mse07b) - *Data Structures*
@@ -185,13 +185,13 @@ Register accounts on Online Judges:
 
 - **Week 9 (07.04 - 07.10)**
 
-    (07.07) DP, Data Structures (Segment Tree & Fenwick Tree Practising)
+    (07.07) DP, Data Structures (Segment Tree & Fenwick Tree Practice)
     - [[ Codeforces] Xenia and Bit Operations](https://codeforces.com/contest/339/problem/D) - *Segment Tree*
     - [[ Codeforces ] Tufurama](https://codeforces.com/contest/961/problem/E) - *Segment Tree, Fenwick Tree*
     - [[ Codeforces] Tokitsukaze and Strange Rectangle](https://codeforces.com/contest/1190/problem/D) - *Segment Tree, Fenwick Tree*
     - [[ VNOJ ] segtree_itladder](https://oj.vnoi.info/problem/segtree_itladder) - *Segment Tree*
     - [[ VNOJ ] bgmine](https://oj.vnoi.info/problem/bgmine) - *Segment Tree, Fenwick Tree, Binary Search, Prefix Sum*
-    - [[ VNOJ ] smartdog](https://oj.vnoi.info/problem/smartdog) - *Segment Tree 2D*
+    - [[ VNOJ ] smartdog](https://oj.vnoi.info/problem/smartdog) - *DP, Segment Tree 2D*
 
     *Recommendation:* [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
@@ -206,7 +206,7 @@ Register accounts on Online Judges:
 
 - **Week 10 (07.11 - 07.17)**
 
-    (07.14) Disjoint Set Union (DSU) and Minimum Spanning Tree (MST)
+    (07.14) DSU and MST (continued)
     - [[Hackerrank] johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) - *MST, Bitwise*
     - [[NBKOJ] cwdctnce](https://nbk.homes/problem/cwdctnce) - *MST*
     - [[VNOJ] aznet](https://oj.vnoi.info/problem/aznet) - *MST*
