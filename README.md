@@ -208,6 +208,7 @@ Register accounts on Online Judges:
 
     (07.14) DSU and MST (continued)
     - [[VNOJ] qhroad](https://oj.vnoi.info/problem/qhroad) - *MST*
+    - [[VNOJ] vmst](https://oj.vnoi.info/problem/vmst) - *DSU*
     - [[Hackerrank] johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) - *MST, Bitwise*
     - [[NBKOJ] cwdctnce](https://nbk.homes/problem/cwdctnce) - *MST*
     - [[VNOJ] aznet](https://oj.vnoi.info/problem/aznet) - *MST*
