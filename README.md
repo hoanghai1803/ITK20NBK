@@ -203,3 +203,10 @@ Register accounts on Online Judges:
     - [[Codeforces] Path Queries](https://codeforces.com/contest/1213/problem/G) - *MST, Offline Processing, Two Pointers*
 
 #### Practice Contest: [Pre-QNOI 2022#01](https://nbk.homes/contest/preqnoi01)
+
+- **Week 10 (07.11 - 07.17)**
+
+    (07.14) Disjoint Set Union (DSU) and Minimum Spanning Tree (MST)
+    - [[Hackerrank] johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) - *MST, Bitwise*
+    - [[NBKOJ] cwdctnce](https://nbk.homes/problem/cwdctnce) - *MST*
+    - [[VNOJ] aznet](https://oj.vnoi.info/problem/aznet) - *MST*
