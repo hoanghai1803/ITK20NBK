@@ -191,7 +191,7 @@ Register accounts on Online Judges:
     - [[ Codeforces] Tokitsukaze and Strange Rectangle](https://codeforces.com/contest/1190/problem/D) - *Segment Tree, Fenwick Tree*
     - [[ VNOJ ] segtree_itladder](https://oj.vnoi.info/problem/segtree_itladder) - *Segment Tree*
     - [[ VNOJ ] bgmine](https://oj.vnoi.info/problem/bgmine) - *Segment Tree, Fenwick Tree, Binary Search, Prefix Sum*
-    - [[ VNOJ ] smartdog](https://oj.vnoi.info/problem/smartdog) - *DP, Segment Tree 2D*
+    - [[ VNOJ ] smartdog](https://oj.vnoi.info/problem/smartdog) - *DP, Segment Tree 2D, Geometry*
 
     *Recommendation:* [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
