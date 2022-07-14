@@ -206,9 +206,12 @@ Register accounts on Online Judges:
 
 - **Week 10 (07.11 - 07.17)**
 
-    (07.14) DSU and MST (continued)
+    (07.13) DSU and MST (continued)
     - [[VNOJ] qhroad](https://oj.vnoi.info/problem/qhroad) - *DSU*
     - [[VNOJ] vmst](https://oj.vnoi.info/problem/vmst) - *DSU*
     - [[Hackerrank] johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) - *MST, Bitwise*
     - [[NBKOJ] cwdctnce](https://nbk.homes/problem/cwdctnce) - *MST*
     - [[VNOJ] aznet](https://oj.vnoi.info/problem/aznet) - *MST*
+
+    (07.16) DSU and MST (continued)
+    - [[NBKOJ] admire](https://nbk.homes/problem/admire) - *DSU, Data Structures*
