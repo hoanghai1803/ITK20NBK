@@ -215,3 +215,4 @@ Register accounts on Online Judges:
 
     (07.16) DSU and MST (continued)
     - [[NBKOJ] admire](https://nbk.homes/problem/admire) - *DSU, Data Structures*
+    - [[VNOJ] sjekira](https://oj.vnoi.info/problem/coci2021_r2_sjekira) - *MST, Greedy*
