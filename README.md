@@ -213,6 +213,20 @@ Register accounts on Online Judges:
     - [[NBKOJ] cwdctnce](https://nbk.homes/problem/cwdctnce) - *MST*
     - [[VNOJ] aznet](https://oj.vnoi.info/problem/aznet) - *MST*
 
-    (07.16) DSU and MST (continued)
+    ***Practice:***
     - [[NBKOJ] admire](https://nbk.homes/problem/admire) - *DSU, Data Structures*
     - [[VNOJ] sjekira](https://oj.vnoi.info/problem/coci2021_r2_sjekira) - *MST, Greedy*
+
+    (07.16) Range Minimum Query (RMQ) and Lowest Common Ancestor (LCA)
+    - [[NBKOJ] bfstone](https://nbk.homes/problem/bfstones) - *Data Structures*
+    - [[Codeforces] Strip](http://codeforces.com/contest/487/problem/B) - *DP, Data Structures*
+    - [[VNOJ] hbtlca](https://oj.vnoi.info/problem/hbtlca) - *LCA*
+    - [[VNOJ] pwalk](https://oj.vnoi.info/problem/pwalk) - *DP, LCA*
+    - [[VNOJ] lubenica](https://oj.vnoi.info/problem/lubenica) - *DP, LCA*
+    - [[VNOJ] fselect](https://oj.vnoi.info/problem/fselect) - *DP, LCA*
+
+- **Week 11 (07.18 - 07.24)**
+
+    (07.21) RMQ and LCA (continued)
+    - [[VNOJ] votree](https://oj.vnoi.info/problem/votree) - *Sparse Table, LCA*
+    - [[VNOJ] upgranet](https://oj.vnoi.info/problem/upgranet) - *DP, MST, LCA*
