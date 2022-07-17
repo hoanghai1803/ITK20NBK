@@ -219,7 +219,7 @@ Register accounts on Online Judges:
 
     (07.16) Range Minimum Query (RMQ) and Lowest Common Ancestor (LCA)
     - [[NBKOJ] bfstone](https://nbk.homes/problem/bfstones) - *Data Structures*
-    - [[Codeforces] Strip](http://codeforces.com/contest/487/problem/B) - *DP, Data Structures*
+    - [[Codeforces] Strip](http://codeforces.com/contest/487/problem/B) - *DP, Data Structures, Binary Search, Two Pointers*
     - [[VNOJ] hbtlca](https://oj.vnoi.info/problem/hbtlca) - *LCA*
     - [[VNOJ] pwalk](https://oj.vnoi.info/problem/pwalk) - *DP, LCA*
     - [[VNOJ] lubenica](https://oj.vnoi.info/problem/lubenica) - *DP, LCA*
