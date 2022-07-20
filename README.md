@@ -233,3 +233,9 @@ Register accounts on Online Judges:
     - [[VNOJ] putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje) - *DP, LCA, DSU*
     - [[Codeforces] Fools and Roads](https://codeforces.com/contest/191/problem/C) - *LCA, Data Structures*
     - [[LQDOJ] tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree) - *DP, LCA, Offline Processing*
+
+    (07.23) SQRT Decomposition and Heavy-Light Decomposition (HLD)
+    - [[VNOJ] qtree3](https://oj.vnoi.info/problem/qtree3) - *HLD, Segment Tree*
+    - [[VNOJ] qtreex](https://oj.vnoi.info/problem/qtreex) - *HLD, LCA, Segment Tree (Lazy Update)*
+    - [[CSES] Path Queries](https://cses.fi/problemset/task/1138) - *HLD, Segment Tree, Fenwick Tree*
+    - [[CSES] Path Queries II](https://cses.fi/problemset/task/2134) - *HLD, LCA, Segment Tree*
