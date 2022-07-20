@@ -231,3 +231,4 @@ Register accounts on Online Judges:
     - [[VNOJ] votree](https://oj.vnoi.info/problem/votree) - *Sparse Table, LCA*
     - [[VNOJ] upgranet](https://oj.vnoi.info/problem/upgranet) - *DP, MST, LCA*
     - [[VNOJ] putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje) - *DP, LCA, DSU*
+    - [[LQDOJ] tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree) - *DP, LCA, Offline Processing*
