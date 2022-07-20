@@ -230,3 +230,4 @@ Register accounts on Online Judges:
     (07.21) RMQ and LCA (continued)
     - [[VNOJ] votree](https://oj.vnoi.info/problem/votree) - *Sparse Table, LCA*
     - [[VNOJ] upgranet](https://oj.vnoi.info/problem/upgranet) - *DP, MST, LCA*
+    - [[VNOJ] putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje) - *DP, LCA, DSU*
