@@ -231,11 +231,11 @@ Register accounts on Online Judges:
     - [[VNOJ] votree](https://oj.vnoi.info/problem/votree) - *Sparse Table, LCA*
     - [[VNOJ] upgranet](https://oj.vnoi.info/problem/upgranet) - *DP, MST, LCA*
     - [[VNOJ] putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje) - *DP, LCA, DSU*
-    - [[Codeforces] Fools and Roads](https://codeforces.com/contest/191/problem/C) - *LCA, Data Structures*
+    - [[Codeforces] Fools and Roads](https://codeforces.com/contest/191/problem/C) - *DP, LCA, Data Structures*
     - [[LQDOJ] tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree) - *DP, LCA, Offline Processing*
 
     (07.23) SQRT Decomposition and Heavy-Light Decomposition (HLD)
-    - [[Codeforces] Array Queries](https://codeforces.com/contest/797/problem/E) - *Brute-Forces, Dp, SQRT Decomposition*
+    - [[Codeforces] Array Queries](https://codeforces.com/contest/797/problem/E) - *Brute-forces, DP, SQRT Decomposition*
     - [[VNOJ] qtree3](https://oj.vnoi.info/problem/qtree3) - *HLD, Segment Tree*
     - [[VNOJ] qtreex](https://oj.vnoi.info/problem/qtreex) - *HLD, LCA, Segment Tree (Lazy Update)*
     - [[CSES] Path Queries](https://cses.fi/problemset/task/1138) - *HLD, Segment Tree, Fenwick Tree*
