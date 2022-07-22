@@ -234,7 +234,7 @@ Register accounts on Online Judges:
     - [[Codeforces] Fools and Roads](https://codeforces.com/contest/191/problem/C) - *DP, LCA, Data Structures*
     - [[LQDOJ] tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree) - *DP, LCA, Offline Processing*
 
-    (07.23) SQRT Decomposition and Heavy-Light Decomposition (HLD)
+    (07.23) SQRT Decomposition (and Mo's Algorithm) and Heavy-Light Decomposition (HLD)
     - [[Codeforces] Array Queries](https://codeforces.com/contest/797/problem/E) - *Brute-forces, DP, Divide and Conquer*
     - [[Codeforces] Xenia and Tree](https://codeforces.com/contest/342/problem/E) - *LCA, Divide and Conquer*
     - [[VNOJ] qtree3](https://oj.vnoi.info/problem/qtree3) - *HLD, Segment Tree*
