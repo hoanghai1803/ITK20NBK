@@ -237,6 +237,7 @@ Register accounts on Online Judges:
     (07.23) SQRT Decomposition (and Mo's Algorithm) and Heavy-Light Decomposition (HLD)
     - [[Codeforces] Array Queries](https://codeforces.com/contest/797/problem/E) - *Brute-forces, DP, Divide and Conquer*
     - [[Codeforces] Xenia and Tree](https://codeforces.com/contest/342/problem/E) - *LCA, Divide and Conquer*
+    - [[LQDOJ] npaircwd](https://lqdoj.edu.vn/problem/npaircwd) - *Mo's Algorithm*
     - [[VNOJ] qtree3](https://oj.vnoi.info/problem/qtree3) - *HLD, Segment Tree*
     - [[VNOJ] qtreex](https://oj.vnoi.info/problem/qtreex) - *HLD, LCA, Segment Tree (Lazy Update)*
     - [[CSES] Path Queries](https://cses.fi/problemset/task/1138) - *HLD, Segment Tree, Fenwick Tree*
