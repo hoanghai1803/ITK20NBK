@@ -243,6 +243,8 @@ Register accounts on Online Judges:
     - [[CSES] Path Queries](https://cses.fi/problemset/task/1138) - *HLD, Segment Tree, Fenwick Tree*
     - [[CSES] Path Queries II](https://cses.fi/problemset/task/2134) - *HLD, LCA, Segment Tree*
 
+#### Practice Contest: [Pre-QNOI 2022#02](https://nbk.homes/contest/preqnoi02)
+
 - **Week 12 (07.25 - 07.31)**
 
     (07.28) Shortest Path (Graphs)
