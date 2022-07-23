@@ -238,7 +238,7 @@ Register accounts on Online Judges:
     - [[ LQDOJ ] tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree) - *DP, LCA, Offline Processing*
 
     (07.23) SQRT Decomposition (and Mo's Algorithm) and Heavy-Light Decomposition (HLD)
-    - [[ Codeforces ] Array Queries](https://codeforces.com/contest/797/problem/E) - *Brute-forces, DP, Divide and Conquer*
+    - [[ Codeforces ] Array Queries](https://codeforces.com/contest/797/problem/E) - *Brute-force, DP, Divide and Conquer*
     - [[ Codeforces ] Xenia and Tree](https://codeforces.com/contest/342/problem/E) - *LCA, Divide and Conquer*
     - [[ LQDOJ ] npaircwd](https://lqdoj.edu.vn/problem/npaircwd) - *Mo's Algorithm*
     - [[ VNOJ ] qtree3](https://oj.vnoi.info/problem/qtree3) - *HLD, Segment Tree*
