@@ -242,3 +242,17 @@ Register accounts on Online Judges:
     - [[VNOJ] qtreex](https://oj.vnoi.info/problem/qtreex) - *HLD, LCA, Segment Tree (Lazy Update)*
     - [[CSES] Path Queries](https://cses.fi/problemset/task/1138) - *HLD, Segment Tree, Fenwick Tree*
     - [[CSES] Path Queries II](https://cses.fi/problemset/task/2134) - *HLD, LCA, Segment Tree*
+
+- **Week 12 (07.25 - 07.31)**
+
+    (07.28) Shortest Path (Graphs)
+    - [[VNOJ] stable](https://oj.vnoi.info/problem/stable) - *Bfs, Data Structures*
+    - [[VNOJ] binladen](https://oj.vnoi.info/problem/binladen) - *Dijkstra*
+    - [[VNOJ] centre28](https://oj.vnoi.info/problem/centre28) - *Dijkstra*
+    - [[VNOJ] pwrfail](https://oj.vnoi.info/problem/pwrfail) - *Dijkstra*
+    - [[VNOJ] qbschool](https://oj.vnoi.info/problem/qbschool) - *Dijkstra*
+    - [[VNOJ] roads](https://oj.vnoi.info/problem/roads) - *Dijkstra*
+    - [[VNOJ] qbrobot](https://oj.vnoi.info/problem/qbrobot) - *Dijkstra*
+    - [[VNOJ] vdanger](https://oj.vnoi.info/problem/vdanger) - *Floyd*
+    - [[VNOJ] dhserv](https://oj.vnoi.info/problem/dhserv) - *Floyd*
+    - [[VNOJ] qbbuild](https://oj.vnoi.info/problem/qbbuild) - *Floyd*
