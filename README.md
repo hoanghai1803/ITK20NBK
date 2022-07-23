@@ -40,7 +40,10 @@ Register accounts on Online Judges:
     (03.08) Brute-force:
     - [[ NBKOJ ] bfknight](https://nbk.homes/problem/bfknight) - *Recursion, Backtracking*
     - [[ NBKOJ ] bfgene](https://nbk.homes/problem/bfgene) - *Brute-force, Data Structures*
+    - [[ VNOJ ] vector](https://oj.vnoi.info/problem/vector) - *Meet in the middle*
     - [[ NBKOJ ] bfdiv](https://nbk.homes/problem/bfdiv) - *Meet in the middle*
+    - [[ VNOJ ] dttui1](https://oj.vnoi.info/problem/dttui1) - *Meet in the middle*
+    - [[ VNOJ ] dgold](https://oj.vnoi.info/problem/dgold) - *Meet in the middle*
 
     (03.10) Prefix Sum, Prefix Sum 2D:
     - [[ NBKOJ ] plants](https://nbk.homes/problem/plants) - *Brute-force, Prefix Sum 2D* 
@@ -196,73 +199,73 @@ Register accounts on Online Judges:
     *Recommendation:* [VNOJ Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 
     (07.09) Disjoint Set Union (DSU) and Minimum Spanning Tree (MST)
-    - [[VNOJ] pbcgangs](https://oj.vnoi.info/problem/pbcgangs) - *DSU*
-    - [[VNOJ] vosplay](https://oj.vnoi.info/problem/vosplay) - *DSU*
-    - [[VNOJ] fwater](https://oj.vnoi.info/problem/fwater) - *MST*
-    - [[NBKOJ] qn16emotor](https://nbk.homes/problem/qn16emotor) - *MST, Offline Processing, Two Pointers*
-    - [[Codeforces] Path Queries](https://codeforces.com/contest/1213/problem/G) - *MST, Offline Processing, Two Pointers*
+    - [[ VNOJ ] pbcgangs](https://oj.vnoi.info/problem/pbcgangs) - *DSU*
+    - [[ VNOJ ] vosplay](https://oj.vnoi.info/problem/vosplay) - *DSU*
+    - [[ VNOJ ] fwater](https://oj.vnoi.info/problem/fwater) - *MST*
+    - [[ NBKOJ ] qn16emotor](https://nbk.homes/problem/qn16emotor) - *MST, Offline Processing, Two Pointers*
+    - [[ Codeforces ] Path Queries](https://codeforces.com/contest/1213/problem/G) - *MST, Offline Processing, Two Pointers*
 
 #### Practice Contest: [Pre-QNOI 2022#01](https://nbk.homes/contest/preqnoi01)
 
 - **Week 10 (07.11 - 07.17)**
 
     (07.13) DSU and MST (continued)
-    - [[VNOJ] qhroad](https://oj.vnoi.info/problem/qhroad) - *DSU*
-    - [[VNOJ] vmst](https://oj.vnoi.info/problem/vmst) - *DSU*
-    - [[Hackerrank] johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) - *MST, Bitwise*
-    - [[NBKOJ] cwdctnce](https://nbk.homes/problem/cwdctnce) - *MST*
-    - [[VNOJ] aznet](https://oj.vnoi.info/problem/aznet) - *MST*
+    - [[ VNOJ ] qhroad](https://oj.vnoi.info/problem/qhroad) - *DSU*
+    - [[ VNOJ ] vmst](https://oj.vnoi.info/problem/vmst) - *DSU*
+    - [[ Hackerrank ] johnland](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem) - *MST, Bitwise*
+    - [[ NBKOJ ] cwdctnce](https://nbk.homes/problem/cwdctnce) - *MST*
+    - [[ VNOJ ] aznet](https://oj.vnoi.info/problem/aznet) - *MST*
 
     ***Practice:***
-    - [[NBKOJ] admire](https://nbk.homes/problem/admire) - *DSU, Data Structures*
-    - [[VNOJ] sjekira](https://oj.vnoi.info/problem/coci2021_r2_sjekira) - *MST, Greedy*
+    - [[ NBKOJ ] admire](https://nbk.homes/problem/admire) - *DSU, Data Structures*
+    - [[ VNOJ ] sjekira](https://oj.vnoi.info/problem/coci2021_r2_sjekira) - *MST, Greedy*
 
     (07.16) Range Minimum Query (RMQ) and Lowest Common Ancestor (LCA)
-    - [[NBKOJ] bfstone](https://nbk.homes/problem/bfstones) - *Data Structures*
-    - [[Codeforces] Strip](http://codeforces.com/contest/487/problem/B) - *DP, Data Structures, Binary Search, Two Pointers*
-    - [[VNOJ] hbtlca](https://oj.vnoi.info/problem/hbtlca) - *LCA*
-    - [[VNOJ] pwalk](https://oj.vnoi.info/problem/pwalk) - *DP, LCA*
-    - [[VNOJ] lubenica](https://oj.vnoi.info/problem/lubenica) - *DP, LCA*
-    - [[VNOJ] fselect](https://oj.vnoi.info/problem/fselect) - *DP, LCA*
+    - [[ NBKOJ ] bfstone](https://nbk.homes/problem/bfstones) - *Data Structures*
+    - [[ Codeforces ] Strip](http://codeforces.com/contest/487/problem/B) - *DP, Data Structures, Binary Search, Two Pointers*
+    - [[ VNOJ ] hbtlca](https://oj.vnoi.info/problem/hbtlca) - *LCA*
+    - [[ VNOJ ] pwalk](https://oj.vnoi.info/problem/pwalk) - *DP, LCA*
+    - [[ VNOJ ] lubenica](https://oj.vnoi.info/problem/lubenica) - *DP, LCA*
+    - [[ VNOJ ] fselect](https://oj.vnoi.info/problem/fselect) - *DP, LCA*
 
 - **Week 11 (07.18 - 07.24)**
 
     (07.21) RMQ and LCA (continued)
-    - [[VNOJ] votree](https://oj.vnoi.info/problem/votree) - *Sparse Table, LCA*
-    - [[VNOJ] upgranet](https://oj.vnoi.info/problem/upgranet) - *DP, MST, LCA*
-    - [[VNOJ] putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje) - *DP, LCA, DSU*
-    - [[Codeforces] Fools and Roads](https://codeforces.com/contest/191/problem/C) - *DP, LCA, Data Structures*
-    - [[LQDOJ] tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree) - *DP, LCA, Offline Processing*
+    - [[ VNOJ ] votree](https://oj.vnoi.info/problem/votree) - *Sparse Table, LCA*
+    - [[ VNOJ ] upgranet](https://oj.vnoi.info/problem/upgranet) - *DP, MST, LCA*
+    - [[ VNOJ ] putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje) - *DP, LCA, DSU*
+    - [[ Codeforces ] Fools and Roads](https://codeforces.com/contest/191/problem/C) - *DP, LCA, Data Structures*
+    - [[ LQDOJ ] tkpc07tree](https://lqdoj.edu.vn/problem/tkpc07tree) - *DP, LCA, Offline Processing*
 
     (07.23) SQRT Decomposition (and Mo's Algorithm) and Heavy-Light Decomposition (HLD)
-    - [[Codeforces] Array Queries](https://codeforces.com/contest/797/problem/E) - *Brute-forces, DP, Divide and Conquer*
-    - [[Codeforces] Xenia and Tree](https://codeforces.com/contest/342/problem/E) - *LCA, Divide and Conquer*
-    - [[LQDOJ] npaircwd](https://lqdoj.edu.vn/problem/npaircwd) - *Mo's Algorithm*
-    - [[VNOJ] qtree3](https://oj.vnoi.info/problem/qtree3) - *HLD, Segment Tree*
-    - [[VNOJ] qtreex](https://oj.vnoi.info/problem/qtreex) - *HLD, LCA, Segment Tree (Lazy Update)*
-    - [[CSES] Path Queries](https://cses.fi/problemset/task/1138) - *HLD, Segment Tree, Fenwick Tree*
-    - [[CSES] Path Queries II](https://cses.fi/problemset/task/2134) - *HLD, LCA, Segment Tree*
+    - [[ Codeforces ] Array Queries](https://codeforces.com/contest/797/problem/E) - *Brute-forces, DP, Divide and Conquer*
+    - [[ Codeforces ] Xenia and Tree](https://codeforces.com/contest/342/problem/E) - *LCA, Divide and Conquer*
+    - [[ LQDOJ ] npaircwd](https://lqdoj.edu.vn/problem/npaircwd) - *Mo's Algorithm*
+    - [[ VNOJ ] qtree3](https://oj.vnoi.info/problem/qtree3) - *HLD, Segment Tree*
+    - [[ VNOJ ] qtreex](https://oj.vnoi.info/problem/qtreex) - *HLD, LCA, Segment Tree (Lazy Update)*
+    - [[ CSES ] Path Queries](https://cses.fi/problemset/task/1138) - *HLD, Segment Tree, Fenwick Tree*
+    - [[ CSES ] Path Queries II](https://cses.fi/problemset/task/2134) - *HLD, LCA, Segment Tree*
 
 #### Practice Contest: [Pre-QNOI 2022#02](https://nbk.homes/contest/preqnoi02)
 
 - **Week 12 (07.25 - 07.31)**
 
     (07.28) Shortest Path (Graphs)
-    - [[VNOJ] stable](https://oj.vnoi.info/problem/stable) - *Bfs, Data Structures*
-    - [[VNOJ] binladen](https://oj.vnoi.info/problem/binladen) - *Dijkstra*
-    - [[VNOJ] centre28](https://oj.vnoi.info/problem/centre28) - *Dijkstra*
-    - [[VNOJ] pwrfail](https://oj.vnoi.info/problem/pwrfail) - *Dijkstra*
-    - [[VNOJ] qbschool](https://oj.vnoi.info/problem/qbschool) - *Dijkstra*
-    - [[VNOJ] roads](https://oj.vnoi.info/problem/roads) - *Dijkstra*
-    - [[VNOJ] qbrobot](https://oj.vnoi.info/problem/qbrobot) - *Dijkstra*
-    - [[VNOJ] vdanger](https://oj.vnoi.info/problem/vdanger) - *Floyd*
-    - [[VNOJ] dhserv](https://oj.vnoi.info/problem/dhserv) - *Floyd*
-    - [[VNOJ] qbbuild](https://oj.vnoi.info/problem/qbbuild) - *Floyd*
+    - [[ VNOJ ] stable](https://oj.vnoi.info/problem/stable) - *Bfs, Data Structures*
+    - [[ VNOJ ] binladen](https://oj.vnoi.info/problem/binladen) - *Dijkstra*
+    - [[ VNOJ ] centre28](https://oj.vnoi.info/problem/centre28) - *Dijkstra*
+    - [[ VNOJ ] pwrfail](https://oj.vnoi.info/problem/pwrfail) - *Dijkstra*
+    - [[ VNOJ ] qbschool](https://oj.vnoi.info/problem/qbschool) - *Dijkstra*
+    - [[ VNOJ ] roads](https://oj.vnoi.info/problem/roads) - *Dijkstra*
+    - [[ VNOJ ] qbrobot](https://oj.vnoi.info/problem/qbrobot) - *Dijkstra*
+    - [[ VNOJ ] vdanger](https://oj.vnoi.info/problem/vdanger) - *Floyd*
+    - [[ VNOJ ] dhserv](https://oj.vnoi.info/problem/dhserv) - *Floyd*
+    - [[ VNOJ ] qbbuild](https://oj.vnoi.info/problem/qbbuild) - *Floyd*
 
     (07.30) Shortest Path (continued)
-    - [[VNOJ] mele2](https://oj.vnoi.info/problem/mele2)
-    - [[VNOJ] netaccel](https://oj.vnoi.info/problem/netaccel)
-    - [[VNOJ] v8sort](https://oj.vnoi.info/problem/v8sort)
-    - [[VNOJ] voi17metro](https://oj.vnoi.info/problem/voi17metro)
-    - [[VNOJ] dhfrbus](https://oj.vnoi.info/problem/dhfrbus)
-    - [[LQDOJ] robot](https://lqdoj.edu.vn/problem/robot)
+    - [[ VNOJ ] mele2](https://oj.vnoi.info/problem/mele2)
+    - [[ VNOJ ] netaccel](https://oj.vnoi.info/problem/netaccel)
+    - [[ VNOJ ] v8sort](https://oj.vnoi.info/problem/v8sort)
+    - [[ VNOJ ] voi17metro](https://oj.vnoi.info/problem/voi17metro)
+    - [[ VNOJ ] dhfrbus](https://oj.vnoi.info/problem/dhfrbus)
+    - [[ LQDOJ ] robot](https://lqdoj.edu.vn/problem/robot)
