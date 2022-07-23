@@ -258,3 +258,11 @@ Register accounts on Online Judges:
     - [[VNOJ] vdanger](https://oj.vnoi.info/problem/vdanger) - *Floyd*
     - [[VNOJ] dhserv](https://oj.vnoi.info/problem/dhserv) - *Floyd*
     - [[VNOJ] qbbuild](https://oj.vnoi.info/problem/qbbuild) - *Floyd*
+
+    (07.30) Shortest Path (continued)
+    - [[VNOJ] mele2](https://oj.vnoi.info/problem/mele2)
+    - [[VNOJ] netaccel](https://oj.vnoi.info/problem/netaccel)
+    - [[VNOJ] v8sort](https://oj.vnoi.info/problem/v8sort)
+    - [[VNOJ] voi17metro](https://oj.vnoi.info/problem/voi17metro)
+    - [[VNOJ] dhfrbus](https://oj.vnoi.info/problem/dhfrbus)
+    - [[LQDOJ] robot](https://lqdoj.edu.vn/problem/robot)
