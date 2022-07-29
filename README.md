@@ -263,9 +263,10 @@ Register accounts on Online Judges:
     - [[ VNOJ ] qbbuild](https://oj.vnoi.info/problem/qbbuild) - *Floyd*
 
     (07.30) Shortest Path (continued)
-    - [[ VNOJ ] mele2](https://oj.vnoi.info/problem/mele2)
-    - [[ VNOJ ] netaccel](https://oj.vnoi.info/problem/netaccel)
-    - [[ VNOJ ] v8sort](https://oj.vnoi.info/problem/v8sort)
-    - [[ VNOJ ] voi17metro](https://oj.vnoi.info/problem/voi17metro)
-    - [[ VNOJ ] dhfrbus](https://oj.vnoi.info/problem/dhfrbus)
-    - [[ LQDOJ ] robot](https://lqdoj.edu.vn/problem/robot)
+    - [[ VNOJ ] ttrip](https://oj.vnoi.info/problem/ttrip) - *Floyd*
+    - [[ VNOJ ] mele2](https://oj.vnoi.info/problem/mele2) - *Dijkstra*
+    - [[ VNOJ ] netaccel](https://oj.vnoi.info/problem/netaccel) - *Dijkstra*
+    - [[ VNOJ ] v8sort](https://oj.vnoi.info/problem/v8sort) - *Dijkstra*
+    - [[ VNOJ ] voi17metro](https://oj.vnoi.info/problem/voi17metro) - *Dijkstra*
+    - [[ VNOJ ] dhfrbus](https://oj.vnoi.info/problem/dhfrbus) - *Dijkstra*
+    - [[ LQDOJ ] robot](https://lqdoj.edu.vn/problem/robot) - *Dijkstra*
