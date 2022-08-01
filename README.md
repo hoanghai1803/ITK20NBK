@@ -157,7 +157,7 @@ Register accounts on Online Judges:
     - [[ VNOJ ] kmin](https://oj.vnoi.info/problem/kmin) - *Heap, Greedy*
     - [[ Codeforces ] OpenStreetMap](https://codeforces.com/contest/1195/problem/E) - *Deque, DP*
 
-    (06.18) DP, Data Structures (Segment Tree, Fenwick Tree)
+    (06.18) DP, Data Structures (Segment Tree & Fenwick Tree)
     - [[ VNOJ ] qmax](https://oj.vnoi.info/problem/qmax) - *Prefix Sum, Segment Tree, Sparse Table*
     - [[ NBKOJ ] drsq](https://nbk.homes/problem/drsq) - *Segment Tree, Fenwick Tree*
     - [[ VNOJ ] nkinv](https://oj.vnoi.info/problem/nkinv) - *Segment Tree, Fenwick Tree*
@@ -272,3 +272,13 @@ Register accounts on Online Judges:
     - [[ VNOJ ] v8sort](https://oj.vnoi.info/problem/v8sort) - *Dijkstra*
     - [[ VNOJ ] voi17metro](https://oj.vnoi.info/problem/voi17metro) - *Dijkstra*
     - [[ LQDOJ ] robot](https://lqdoj.edu.vn/problem/robot) - *Dijkstra*
+
+- **Week 13 (08.01 - 08.07)**
+
+    (08.04) Tarjan's Algorithm & Related Problems <br /> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finding Bridges and Articulation Points
+
+    - [[ VNOJ ] graph_](https://oj.vnoi.info/problem/graph_) - *Tarjan*
+    - [[ VNOJ ] kbuild](https://oj.vnoi.info/problem/kbuild) - *Tarjan*
+    - [[ VNOJ ] reform](https://oj.vnoi.info/problem/reform) - *Tarjan, Combinatorics*
+    - [[ VNOJ ] nkpolice](https://oj.vnoi.info/problem/nkpolice) - *Tarjan*
