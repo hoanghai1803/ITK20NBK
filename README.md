@@ -280,5 +280,9 @@ Register accounts on Online Judges:
     - [[ VNOJ ] graph_](https://oj.vnoi.info/problem/graph_) - *Tarjan*
     - [[ VNOJ ] kbuild](https://oj.vnoi.info/problem/kbuild) - *Tarjan*
     - [[ VNOJ ] weather](https://oj.vnoi.info/problem/weather) - *Tarjan*
+    - [[ VNOJ ] critical](https://oj.vnoi.info/problem/critical) - *Tarjan*
     - [[ VNOJ ] reform](https://oj.vnoi.info/problem/reform) - *Tarjan, Combinatorics*
     - [[ VNOJ ] nkpolice](https://oj.vnoi.info/problem/nkpolice) - *Tarjan, Data Structures*
+    - [[ Codeforces ] Cutting Figure](https://codeforces.com/problemset/problem/193/A) - *Tarjan*
+    - [[ Codeforces ] Tourist Reform](http://codeforces.com/contest/732/problem/F) - *Tarjan*
+    - [[ Codeforces ] Edges in MST](https://codeforces.com/contest/160/problem/D) - *Tarjan, DSU*
