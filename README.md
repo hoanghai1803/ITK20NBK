@@ -279,5 +279,6 @@ Register accounts on Online Judges:
 
     - [[ VNOJ ] graph_](https://oj.vnoi.info/problem/graph_) - *Tarjan*
     - [[ VNOJ ] kbuild](https://oj.vnoi.info/problem/kbuild) - *Tarjan*
+    - [[ VNOJ ] weather](https://oj.vnoi.info/problem/weather) - *Tarjan*
     - [[ VNOJ ] reform](https://oj.vnoi.info/problem/reform) - *Tarjan, Combinatorics*
-    - [[ VNOJ ] nkpolice](https://oj.vnoi.info/problem/nkpolice) - *Tarjan*
+    - [[ VNOJ ] nkpolice](https://oj.vnoi.info/problem/nkpolice) - *Tarjan, Data Structures*
