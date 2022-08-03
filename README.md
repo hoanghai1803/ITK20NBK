@@ -278,7 +278,7 @@ Register accounts on Online Judges:
     (08.04) Tarjan's Algorithm & Related Problems - Finding Bridges and Articulation Points
 
     - [[ VNOJ ] graph_](https://oj.vnoi.info/problem/graph_) - *Tarjan*
-    - [[ VNOJ ] kbuild](https://oj.vnoi.info/problem/kbuild) - *Tarjan*
+    - [[ VNOJ ] kbuild](https://oj.vnoi.info/problem/kbuild) - *Tarjan, DSU*
     - [[ VNOJ ] weather](https://oj.vnoi.info/problem/weather) - *Tarjan, Combinatorics*
     - [[ VNOJ ] critical](https://oj.vnoi.info/problem/critical) - *Tarjan, Combinatorics*
     - [[ VNOJ ] reform](https://oj.vnoi.info/problem/reform) - *Tarjan, Combinatorics*
