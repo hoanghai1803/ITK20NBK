@@ -298,4 +298,6 @@ Register accounts on Online Judges:
     - [[ VNOJ ] message](https://oj.vnoi.info/problem/message) - *Tarjan*
     - [[ VNOJ ] nkonearc](https://oj.vnoi.info/problem/nkonearc) - *Tarjan*
     - [[ VNOJ ] treat](https://oj.vnoi.info/problem/treat) *Tarjan*
-    - 
+    - [[ VNOJ ] kcollect](https://oj.vnoi.info/problem/kcollect) - *Tarjan*
+    - [[ Codeforces ] Checkposts](https://codeforces.com/contest/427/problem/C) - *Tarjan, Two Pointers*
+    - [[ Codeforces ] Ralph and Mushrooms](https://codeforces.com/contest/894/problem/E) - *Tarjan, DP*
