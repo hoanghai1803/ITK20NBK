@@ -286,3 +286,16 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Cutting Figure](https://codeforces.com/problemset/problem/193/A) - *Tarjan*
     - [[ Codeforces ] Tourist Reform](http://codeforces.com/contest/732/problem/F) - *Tarjan*
     - [[ Codeforces ] Edges in MST](https://codeforces.com/contest/160/problem/D) - *Tarjan, DSU*
+
+    ***Practice:***
+    - [[ VNOJ ] safenet2](https://oj.vnoi.info/problem/safenet2) - *Tarjan*
+    - [[ VNOJ ] onbridge](https://oj.vnoi.info/problem/onbridge) -  *DSU*
+    - [[ Codeforces] Break Up](https://codeforces.com/contest/700/problem/C) - *Tarjan*
+
+    (08.06) Tarjan's Algorithm & Related Problems - Finding Strongly Connected Components
+    - [[ VNOJ ] tjalg](https://oj.vnoi.info/problem/tjalg) - *Tarjan*
+    - [[ VNOJ ] nkjump](https://oj.vnoi.info/problem/nkjump) - *Tarjan*
+    - [[ VNOJ ] message](https://oj.vnoi.info/problem/message) - *Tarjan*
+    - [[ VNOJ ] nkonearc](https://oj.vnoi.info/problem/nkonearc) - *Tarjan*
+    - [[ VNOJ ] treat](https://oj.vnoi.info/problem/treat) *Tarjan*
+    - 
