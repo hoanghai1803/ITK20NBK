@@ -285,7 +285,7 @@ Register accounts on Online Judges:
     - [[ VNOJ ] nkpolice](https://oj.vnoi.info/problem/nkpolice) - *Tarjan, Data Structures*
     - [[ Codeforces ] Cutting Figure](https://codeforces.com/problemset/problem/193/A) - *Tarjan*
     - [[ Codeforces ] Tourist Reform](http://codeforces.com/contest/732/problem/F) - *Tarjan*
-    - [[ Codeforces ] Edges in MST](https://codeforces.com/contest/160/problem/D) - *Tarjan, DSU*
+    - [[ Codeforces ] Edges in MST](https://codeforces.com/contest/160/problem/D) - *Tarjan, MST*
 
     ***Practice:***
     - [[ VNOJ ] safenet2](https://oj.vnoi.info/problem/safenet2) - *Tarjan*
@@ -299,5 +299,6 @@ Register accounts on Online Judges:
     - [[ VNOJ ] nkonearc](https://oj.vnoi.info/problem/nkonearc) - *Tarjan*
     - [[ VNOJ ] treat](https://oj.vnoi.info/problem/treat) *Tarjan*
     - [[ VNOJ ] kcollect](https://oj.vnoi.info/problem/kcollect) - *Tarjan*
+    - [[ VNOJ ] qbcirarc](https://oj.vnoi.info/problem/qbcirarc) - *Tarjan*
     - [[ Codeforces ] Checkposts](https://codeforces.com/contest/427/problem/C) - *Tarjan, Two Pointers*
     - [[ Codeforces ] Ralph and Mushrooms](https://codeforces.com/contest/894/problem/E) - *Tarjan, DP*
