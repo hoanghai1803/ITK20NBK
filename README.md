@@ -296,10 +296,11 @@ Register accounts on Online Judges:
     - [[ VNOJ ] tjalg](https://oj.vnoi.info/problem/tjalg) - *Tarjan*
     - [[ VNOJ ] message](https://oj.vnoi.info/problem/message) - *Tarjan*
     - [[ VNOJ ] nkonearc](https://oj.vnoi.info/problem/nkonearc) - *Tarjan*
-    - [[ VNOJ ] treat](https://oj.vnoi.info/problem/treat) - *Tarjan, DP*
+    - [[ VNOJ ] number](https://oj.vnoi.info/problem/number) - *Tarjan*
+    - [[ VNOJ ] treat](https://oj.vnoi.info/problem/treat) - *Tarjan, DP on DAG*
     - [[ VNOJ ] qbcirarc](https://oj.vnoi.info/problem/qbcirarc) - *Tarjan*
     - [[ Codeforces ] Checkposts](https://codeforces.com/contest/427/problem/C) - *Tarjan, Two Pointers*
-    - [[ Codeforces ] Ralph and Mushrooms](https://codeforces.com/contest/894/problem/E) - *Tarjan, DP*
+    - [[ Codeforces ] Ralph and Mushrooms](https://codeforces.com/contest/894/problem/E) - *Tarjan, DP on DAG*
 
 - **Week 14 (08.08 - 08.14)**
 
@@ -308,6 +309,7 @@ Register accounts on Online Judges:
     - [[ VNOJ ] nkleague](https://oj.vnoi.info/problem/nkleague) - *Topo Sorting*
     - [[ VNOJ ] bic](https://oj.vnoi.info/problem/bic) - *Topo Sorting*
     - [[ VNOJ ] kcollect](https://oj.vnoi.info/problem/kcollect) - *Tarjan, Topo Sorting, DP on DAG*
+    - [[ VNOJ ] voi18specone](https://oj.vnoi.info/problem/voi18specone) - *Topo Sorting, DP on DAG*
     - [[ LQDOJ ] longestpath](https://lqdoj.edu.vn/problem/longestpath) - *Topo Sorting, DP on DAG*
     - [[ Codeforces] Fox and Names](https://codeforces.com/problemset/problem/510/C) - *Topo Sorting*
     - [[ Codeforces] Substring](https://codeforces.com/contest/919/problem/D) - *Topo Sorting, DP on DAG*
