@@ -295,10 +295,10 @@ Register accounts on Online Judges:
     (08.06) Tarjan's Algorithm & Related Problems - Finding Strongly Connected Components
     - [[ VNOJ ] tjalg](https://oj.vnoi.info/problem/tjalg) - *Tarjan*
     - [[ VNOJ ] message](https://oj.vnoi.info/problem/message) - *Tarjan*
-    - [[ VNOJ ] nkonearc](https://oj.vnoi.info/problem/nkonearc) - *Tarjan*
     - [[ VNOJ ] number](https://oj.vnoi.info/problem/number) - *Tarjan*
+    - [[ VNOJ ] nkonearc](https://oj.vnoi.info/problem/nkonearc) - *Tarjan*
     - [[ VNOJ ] treat](https://oj.vnoi.info/problem/treat) - *Tarjan, DP on DAG*
-    - [[ VNOJ ] qbcirarc](https://oj.vnoi.info/problem/qbcirarc) - *Tarjan*
+    - [[ VNOJ ] qbcirarc](https://oj.vnoi.info/problem/qbcirarc) - *DFS Color, Tarjan*
     - [[ Codeforces ] Checkposts](https://codeforces.com/contest/427/problem/C) - *Tarjan, Two Pointers*
     - [[ Codeforces ] Ralph and Mushrooms](https://codeforces.com/contest/894/problem/E) - *Tarjan, DP on DAG*
 
