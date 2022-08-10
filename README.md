@@ -305,11 +305,12 @@ Register accounts on Online Judges:
 - **Week 14 (08.08 - 08.14)**
 
     (08.11) Topological Sorting and DP on DAG
+    - [[ LQDOJ ] longestpath](https://lqdoj.edu.vn/problem/longestpath) - *Topo Sorting, DP on DAG*
     - [[ VNOJ ] nkleague](https://oj.vnoi.info/problem/nkleague) - *Topo Sorting*
     - [[ VNOJ ] nkjump](https://oj.vnoi.info/problem/nkjump) - *Topo Sorting*
     - [[ VNOJ ] voi18specone](https://oj.vnoi.info/problem/voi18specone) - *Topo Sorting*
     - [[ VNOJ ] bic](https://oj.vnoi.info/problem/bic) - *Topo Sorting, DP on DAG*
     - [[ VNOJ ] kcollect](https://oj.vnoi.info/problem/kcollect) - *Tarjan, Topo Sorting, DP on DAG*
-    - [[ LQDOJ ] longestpath](https://lqdoj.edu.vn/problem/longestpath) - *Topo Sorting, DP on DAG*
+    - [[ NBKOJ ] atm](https://nbk.homes/problem/atm) - *Tarjan, Topo Sorting, DP on DAG*
     - [[ Codeforces] Fox and Names](https://codeforces.com/problemset/problem/510/C) - *Topo Sorting*
     - [[ Codeforces] Substring](https://codeforces.com/contest/919/problem/D) - *Topo Sorting, DP on DAG*
