@@ -61,7 +61,7 @@ Register accounts on Online Judges:
     - [[ VNOJ ] ads](https://oj.vnoi.info/problem/ads) - *Bfs, Dfs*
     - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
     - [[ NBKOJ ] sumsubtree](https://nbk.homes/problem/sumsubtree) - *Dfs, Segment Tree / Fenwick Tree*
-    - [[ VNOJ ] voi18specone](https://oj.vnoi.info/problem/voi18specone) - *Multi-source BFS*
+    - [[ VNOJ ] voi18specone](https://oj.vnoi.info/problem/voi18specone) - *Multi-source BFS, Data Structures*
     - [[ VNOJ ] qbcirarc](https://oj.vnoi.info/problem/qbcirarc) - *DFS Color (Detect Cycle)*
 
     (03.17) Binary Search, Two Pointers
