@@ -61,6 +61,8 @@ Register accounts on Online Judges:
     - [[ VNOJ ] ads](https://oj.vnoi.info/problem/ads) - *Bfs, Dfs*
     - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
     - [[ NBKOJ ] sumsubtree](https://nbk.homes/problem/sumsubtree) - *Dfs, Segment Tree / Fenwick Tree*
+    - [[ VNOJ ] voi18specone](https://oj.vnoi.info/problem/voi18specone) - *Multi-source BFS*
+    - [[ VNOJ ] qbcirarc](https://oj.vnoi.info/problem/qbcirarc) - *DFS Color (Detect Cycle)*
 
     (03.17) Binary Search, Two Pointers
     - [[ NBKOJ ] mtwalk](https://nbk.homes/problem/mtwalk) - *Binary Search, Bfs, Dfs*
@@ -298,7 +300,6 @@ Register accounts on Online Judges:
     - [[ VNOJ ] number](https://oj.vnoi.info/problem/number) - *Tarjan*
     - [[ VNOJ ] nkonearc](https://oj.vnoi.info/problem/nkonearc) - *Tarjan*
     - [[ VNOJ ] treat](https://oj.vnoi.info/problem/treat) - *Tarjan, DP on DAG*
-    - [[ VNOJ ] qbcirarc](https://oj.vnoi.info/problem/qbcirarc) - *DFS Color (Detect Cycle), Tarjan*
     - [[ Codeforces ] Checkposts](https://codeforces.com/contest/427/problem/C) - *Tarjan, Two Pointers*
     - [[ Codeforces ] Ralph and Mushrooms](https://codeforces.com/contest/894/problem/E) - *Tarjan, DP on DAG*
 
@@ -307,7 +308,6 @@ Register accounts on Online Judges:
     (08.11) Topological Sorting and DP on DAG
     - [[ VNOJ ] nkleague](https://oj.vnoi.info/problem/nkleague) - *Topo Sorting*
     - [[ VNOJ ] nkjump](https://oj.vnoi.info/problem/nkjump) - *Topo Sorting*
-    - [[ VNOJ ] voi18specone](https://oj.vnoi.info/problem/voi18specone) - *Topo Sorting*
     - [[ VNOJ ] atcoder_dp_g](https://oj.vnoi.info/problem/atcoder_dp_g) - *Topo Sorting, DP on DAG* 
     - [[ VNOJ ] bic](https://oj.vnoi.info/problem/bic) - *Topo Sorting, DP on DAG*
     - [[ VNOJ ] kcollect](https://oj.vnoi.info/problem/kcollect) - *Tarjan, Topo Sorting, DP on DAG*
