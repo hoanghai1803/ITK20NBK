@@ -314,3 +314,11 @@ Register accounts on Online Judges:
     - [[ NBKOJ ] atm](https://nbk.homes/problem/atm) - *Tarjan, Topo Sorting, DP on DAG*
     - [[ Codeforces] Fox and Names](https://codeforces.com/problemset/problem/510/C) - *Topo Sorting*
     - [[ Codeforces] Substring](https://codeforces.com/contest/919/problem/D) - *Topo Sorting, DP on DAG*
+    
+    (08.14) 2-SAT Problem
+    - [[ VNOJ] twosat](https://oj.vnoi.info/problem/twosat) - *2-SAT*
+    - [[ NBKOJ ] cwdgameshow](https://nbk.homes/problem/cwdgameshow) - *2-SAT*
+    - [[ CSES ] Giant Pizza](https://cses.fi/problemset/task/1684) - *2-SAT*
+    - [[ Codeforces ] The Door Problem](https://codeforces.com/contest/776/problem/D) - *2-SAT, DSU*
+    - [[ Codeforces ] The Road to Berland](https://codeforces.com/contest/228/problem/E) - *2-SAT, DSU*
+    - [[ Codeforces] Catowice City](https://codeforces.com/contest/1239/problem/D) - *2-SAT*
