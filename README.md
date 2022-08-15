@@ -329,4 +329,6 @@ Register accounts on Online Judges:
     (08.18) DP on Trees
     - [[ VNOJ ] v8org](https://oj.vnoi.info/problem/v8org) - *DFS, DP*
     - [[ VNOJ ] mtree](https://oj.vnoi.info/problem/mtree) - *DFS, DP*
+    - [[ VNOJ ] lqdxeui](https://oj.vnoi.info/problem/lqdxeui) - *DFS, DP*
+    - [[ VNOJ ] kingdom](https://oj.vnoi.info/problem/kingdom) - *DFS, DP*
     - [[ LQDOJ ] service](https://lqdoj.edu.vn/problem/service) - *DFS, DP*
