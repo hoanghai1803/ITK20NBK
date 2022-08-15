@@ -318,8 +318,8 @@ Register accounts on Online Judges:
     (08.14) 2-SAT Problem
     - [[ VNOJ] twosat](https://oj.vnoi.info/problem/twosat) - *2-SAT*
     - [[ NBKOJ ] cwdgameshow](https://nbk.homes/problem/cwdgameshow) - *2-SAT*
-    - [[ Codeforces ] The Door Problem](https://codeforces.com/contest/776/problem/D) - *2-SAT, DSU*
-    - [[ Codeforces ] The Road to Berland](https://codeforces.com/contest/228/problem/E) - *2-SAT, DSU*
+    - [[ Codeforces ] The Door Problem](https://codeforces.com/contest/776/problem/D) - *2-SAT*
+    - [[ Codeforces ] The Road to Berland](https://codeforces.com/contest/228/problem/E) - *2-SAT*
     - [[ Codeforces] Catowice City](https://codeforces.com/contest/1239/problem/D) - *2-SAT*
 
 - **Week 15 (08.15 - 08.21)**
