@@ -305,7 +305,7 @@ Register accounts on Online Judges:
 
 - **Week 14 (08.08 - 08.14)**
 
-    (08.11) Topological Sorting and DP on DAG
+    (08.11) Tarjan's Algorithm & Related Problems - Topological Sorting and DP on DAG
     - [[ VNOJ ] nkleague](https://oj.vnoi.info/problem/nkleague) - *Topo Sorting*
     - [[ VNOJ ] nkjump](https://oj.vnoi.info/problem/nkjump) - *Topo Sorting*
     - [[ VNOJ ] atcoder_dp_g](https://oj.vnoi.info/problem/atcoder_dp_g) - *Topo Sorting, DP on DAG* 
@@ -315,7 +315,7 @@ Register accounts on Online Judges:
     - [[ Codeforces] Fox and Names](https://codeforces.com/problemset/problem/510/C) - *Topo Sorting*
     - [[ Codeforces] Substring](https://codeforces.com/contest/919/problem/D) - *Topo Sorting, DP on DAG*
     
-    (08.14) 2-SAT Problem
+    (08.14) Tarjan's Algorithm & Related Problems - 2-SAT Problem
     - [[ VNOJ] twosat](https://oj.vnoi.info/problem/twosat) - *2-SAT*
     - [[ VNOJ] elect](https://oj.vnoi.info/problem/elect) - *2-SAT*
     - [[ NBKOJ ] cwdgameshow](https://nbk.homes/problem/cwdgameshow) - *2-SAT*
