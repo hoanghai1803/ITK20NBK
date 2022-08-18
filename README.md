@@ -335,3 +335,8 @@ Register accounts on Online Judges:
     - [[ VNOJ ] lqdxeui](https://oj.vnoi.info/problem/lqdxeui) - *DFS, DP*
     - [[ VNOJ ] kingdom](https://oj.vnoi.info/problem/kingdom) - *DFS, DP*
     - [[ LQDOJ ] service](https://lqdoj.edu.vn/problem/service) - *DFS, DP*
+
+    (08.20) DP on Trees (continued)
+    - [[ Codeforces ] Appleman and Tree](https://codeforces.com/contest/461/problem/B) - *DFS, DP*
+    - [[ Codeforces ] Distance in Tree](https://codeforces.com/contest/161/problem/D) - *DFS, DP*
+    - [[ Codeforces ] Village](https://codeforces.com/contest/1387/problem/B1) - *DFS, DP*
