@@ -339,4 +339,4 @@ Register accounts on Online Judges:
     (08.20) DP on Trees (continued)
     - [[ Codeforces ] Appleman and Tree](https://codeforces.com/contest/461/problem/B) - *DFS, DP*
     - [[ Codeforces ] Distance in Tree](https://codeforces.com/contest/161/problem/D) - *DFS, DP*
-    - [[ Codeforces ] Village](https://codeforces.com/contest/1387/problem/B1) - *DFS, DP*
+    - [[ Codeforces ] Tree Painting](https://codeforces.com/problemset/problem/1187/E) - *DFS, DP*
