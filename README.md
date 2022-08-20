@@ -22,7 +22,8 @@ Register accounts on Online Judges:
 - [Kc97ble](https://sites.google.com/site/kc97ble/)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)
 - [Codeforces Edu & Forum](https://codeforces.com/edu/courses)
-
+- [Github - Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
+- [The Ultimate Topic List](https://blog.shahjalalshohag.com/topic-list/)
 
 ## OI Contest Resources
 
