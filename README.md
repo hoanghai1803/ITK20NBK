@@ -343,3 +343,14 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Distance in Tree](https://codeforces.com/contest/161/problem/D) - *DFS, DP*
     - [[ Codeforces ] Tree Painting](https://codeforces.com/problemset/problem/1187/E) - *DFS, DP*
     - [[ Codeforces ] Treeland Tour](https://codeforces.com/problemset/problem/490/F) - *DFS, DP, Data Structures*
+
+- **Week 16 (08.22 - 08.28)**
+
+    (08.25) DP and Matrix Multiplication (MatMul) 
+    - [[ VNOJ ] latgach4](https://oj.vnoi.info/problem/latgach4) - *DP, MatMul*
+    - [[ VNOJ ] dhloco](https://oj.vnoi.info/problem/dhloco) - *DP, MatMul*
+    - [[ VNOJ ] vostribo](https://oj.vnoi.info/problem/vostribo) - *DP, MatMul*
+    - [[ VNOJ ] vmatrix](https://oj.vnoi.info/problem/vmatrix) - *DP, MatMul*
+    - [[ VNOJ ] voi17fibseq](https://oj.vnoi.info/problem/voi17fibseq) - *DP, MatMul*
+    
+    *Recommendation:* [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
