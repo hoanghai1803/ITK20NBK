@@ -223,6 +223,7 @@ Register accounts on Online Judges:
     - [[ NBKOJ ] admire](https://nbk.homes/problem/admire) - *DSU, Data Structures*
     - [[ NBKOJ ] assignvar](https://nbk.homes/problem/assignvar) - *DSU, Data Structures*
     - [[ Codeforces] flood](https://codeforces.com/group/G0iFI97YZN/contest/204266/problem/A) - *MST, Two Pointers*
+    - [[ Codeforces] Civilization](https://codeforces.com/problemset/problem/455/C) - *DSU, DP*
     - [[ VNOJ ] sjekira](https://oj.vnoi.info/problem/coci2021_r2_sjekira) - *MST, Greedy*
 
     (07.16) Range Minimum Query (RMQ) and Lowest Common Ancestor (LCA)
