@@ -342,3 +342,4 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Appleman and Tree](https://codeforces.com/contest/461/problem/B) - *DFS, DP*
     - [[ Codeforces ] Distance in Tree](https://codeforces.com/contest/161/problem/D) - *DFS, DP*
     - [[ Codeforces ] Tree Painting](https://codeforces.com/problemset/problem/1187/E) - *DFS, DP*
+    - [[ Codeforces ] Treeland Tour](https://codeforces.com/problemset/problem/490/F) - *DFS, DP, Data Structures*
