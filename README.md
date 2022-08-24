@@ -354,5 +354,6 @@ Register accounts on Online Judges:
     - [[ VNOJ ] matexp_cntpath](https://oj.vnoi.info/problem/errichto_matexp_cntpath) - *DP, MatMul*
     - [[ VNOJ ] matexp_minpath](https://oj.vnoi.info/problem/errichto_matexp_minpath) - *DP, MatMul*
     - [[ VNOJ ] voi17fibseq](https://oj.vnoi.info/problem/voi17fibseq) - *DP, MatMul*
+    - [[ VNOJ ] vomarble](https://oj.vnoi.info/problem/vomarble) - *DP, MatMul*
     
     *Recommendation:* [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
