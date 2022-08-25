@@ -361,8 +361,8 @@ Register accounts on Online Judges:
 
     (08.27) Bitmask DP
     - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
-    - [[ VNOJ ] qbselect](https://oj.vnoi.info/problem/qbselect) - *Bitmask DP*
-    - [[ VNOJ ] qbgame](https://oj.vnoi.info/problem/qbgame) - *Bitmask DP*
     - [[ VNOJ ] lem3](https://oj.vnoi.info/problem/lem3) - *Bitmask DP*
-    - [[ VNOJ ] seq198](https://oj.vnoi.info/problem/seq198) - *Bitmask DP*
     - [[ VNOJ ] cowgirl](https://oj.vnoi.info/problem/cowgirl) - *Bitmask DP*
+    - [[ VNOJ ] qbgame](https://oj.vnoi.info/problem/qbgame) - *Bitmask DP*
+    - [[ VNOJ ] qbselect](https://oj.vnoi.info/problem/qbselect) - *Bitmask DP*
+    - [[ VNOJ ] seq198](https://oj.vnoi.info/problem/seq198) - *Bitmask DP*
