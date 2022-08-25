@@ -60,8 +60,9 @@ Register accounts on Online Judges:
 
     (03.15) Graph Fundamental, BFS, DFS
     - [[ VNOJ ] ads](https://oj.vnoi.info/problem/ads) - *Bfs, Dfs*
-    - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
     - [[ NBKOJ ] sumsubtree](https://nbk.homes/problem/sumsubtree) - *Dfs, Segment Tree / Fenwick Tree*
+    - [[ VNOJ ] qbbishop](https://oj.vnoi.info/problem/qbbishop) - *Bfs*
+    - [[ VNOJ ] robocon](https://oj.vnoi.info/problem/robocon) - *Bfs*
     - [[ VNOJ ] voi18specone](https://oj.vnoi.info/problem/voi18specone) - *Multi-source BFS, Data Structures*
     - [[ VNOJ ] qbcirarc](https://oj.vnoi.info/problem/qbcirarc) - *DFS Color (Detect Cycle)*
 
@@ -357,3 +358,11 @@ Register accounts on Online Judges:
     - [[ VNOJ ] vomarble](https://oj.vnoi.info/problem/vomarble) - *DP, MatMul*
     
     *Recommendation:* [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
+
+    (08.27) Bitmask DP
+    - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
+    - [[ VNOJ ] qbselect](https://oj.vnoi.info/problem/qbselect) - *Bitmask DP*
+    - [[ VNOJ ] qbgame](https://oj.vnoi.info/problem/qbgame) - *Bitmask DP*
+    - [[ VNOJ ] lem3](https://oj.vnoi.info/problem/lem3) - *Bitmask DP*
+    - [[ VNOJ ] seq198](https://oj.vnoi.info/problem/seq198) - *Bitmask DP*
+    - [[ VNOJ ] cowgirl](https://oj.vnoi.info/problem/cowgirl) - *Bitmask DP*
