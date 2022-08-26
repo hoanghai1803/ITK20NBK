@@ -360,10 +360,9 @@ Register accounts on Online Judges:
     *Recommendation:* [Codeforces Educational Matrix Exponentiation Contest](https://codeforces.com/gym/102644) (or [Vietnamese version](https://oj.vnoi.info/contest/errichto_matexp))
 
     (08.27) Bitmask DP
-    - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
     - [[ VNOJ ] mixup2](https://oj.vnoi.info/problem/mixup2) - *Bitmask DP*
     - [[ VNOJ ] lem3](https://oj.vnoi.info/problem/lem3) - *Bitmask DP*
+    - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
     - [[ VNOJ ] cowgirl](https://oj.vnoi.info/problem/cowgirl) - *Bitmask DP*
     - [[ VNOJ ] qbgame](https://oj.vnoi.info/problem/qbgame) - *Bitmask DP*
-    - [[ VNOJ ] qbselect](https://oj.vnoi.info/problem/qbselect) - *Bitmask DP*
     - [[ VNOJ ] seq198](https://oj.vnoi.info/problem/seq198) - *Bitmask DP*
