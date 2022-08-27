@@ -365,4 +365,5 @@ Register accounts on Online Judges:
     - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
     - [[ VNOJ ] cowgirl](https://oj.vnoi.info/problem/cowgirl) - *Bitmask DP*
     - [[ VNOJ ] qbgame](https://oj.vnoi.info/problem/qbgame) - *Bitmask DP*
+    - [[ VNOJ ] predhbb21_cpu](https://oj.vnoi.info/problem/predhbb21_cpu) - *Bitmask DP*
     - [[ VNOJ ] seq198](https://oj.vnoi.info/problem/seq198) - *Bitmask DP*
