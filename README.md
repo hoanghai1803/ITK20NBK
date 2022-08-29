@@ -367,3 +367,8 @@ Register accounts on Online Judges:
     - [[ VNOJ ] qbgame](https://oj.vnoi.info/problem/qbgame) - *Bitmask DP*
     - [[ VNOJ ] predhbb21_cpu](https://oj.vnoi.info/problem/predhbb21_cpu) - *Bitmask DP*
     - [[ VNOJ ] seq198](https://oj.vnoi.info/problem/seq198) - *Bitmask DP*
+
+- **Week 17 (08.29 - 09.04)**
+
+    (08.31) Bitmask DP (continued)
+    - [[ Codeforces ] Square Subsets](https://codeforces.com/problemset/problem/895/C) - *Bitmask DP, Math*
