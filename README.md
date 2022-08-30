@@ -38,7 +38,7 @@ Register accounts on Online Judges:
 
 - **Week 1 (03.07 - 03.13)**
 
-    (03.08) Brute-force:
+    (03.08) Brute-force
     - [[ NBKOJ ] bfknight](https://nbk.homes/problem/bfknight) - *Recursion, Backtracking*
     - [[ NBKOJ ] bfgene](https://nbk.homes/problem/bfgene) - *Brute-force, Data Structures*
     - [[ VNOJ ] vector](https://oj.vnoi.info/problem/vector) - *Meet in the middle*
@@ -46,11 +46,11 @@ Register accounts on Online Judges:
     - [[ VNOJ ] dttui1](https://oj.vnoi.info/problem/dttui1) - *Meet in the middle*
     - [[ VNOJ ] dgold](https://oj.vnoi.info/problem/dgold) - *Meet in the middle*
 
-    (03.10) Prefix Sum, Prefix Sum 2D:
+    (03.10) Prefix Sum, Prefix Sum 2D
     - [[ NBKOJ ] plants](https://nbk.homes/problem/plants) - *Brute-force, Prefix Sum 2D* 
     - [[ NBKOJ ] voi18bonus](https://nbk.homes/problem/voi18bonus) - *Inclusion-Exclusion Principle, Prefix Sum 2D*
 
-    (03.12) Number Theory:
+    (03.12) Number Theory
     - [[ NBKOJ ] exp](https://nbk.homes/problem/exp) - *Number Theory, Binary Exponentiation*
     - [[ NBKOJ ] coprimearr](https://nbk.homes/problem/coprimearr) - *Sieve, Inclusion-Exclusion Principle*
     - [[ NBKOJ ] bfpermstr](https://nbk.homes/problem/bfpermstr) - *Combinatorics, Modular Inverse*
@@ -86,7 +86,7 @@ Register accounts on Online Judges:
     - [[ NBKOJ ] sumdivisors](https://nbk.homes/problem/sumdivisors) - *Number Theory*
     - [[ NBKOJ ] bddivan](http://nbk.homes/problem/bddivan) - *Number Theory, DP, Binary Exponentiation, Modular Inverse*
     - [[ NBKOJ ] goodarr](https://nbk.homes/problem/goodarr) - *Number Theory, Brute-force*
-    - [[ NBKOJ ] cwdsquare](https://nbk.homes/problem/cwdsquare) - *Number Theory, Data Structure, Greedy*
+    - [[ NBKOJ ] cwdsquare](https://nbk.homes/problem/cwdsquare) - *Number Theory, Data Structure, *
     - [[ NBKOJ ] cntdiv2](https://nbk.homes/problem/cntdiv2) - *Sieve, Number Theory*
 
 - **Week 4 (05.23 - 05.29)**
