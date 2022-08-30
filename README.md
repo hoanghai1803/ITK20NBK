@@ -375,3 +375,4 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Square Subsets](https://codeforces.com/problemset/problem/895/C) - *Bitmask DP, Math*
     - [[ Codeforces ] A Simple Task](https://codeforces.com/contest/11/problem/D) - *Bitmask DP, Graph*
     - [[ Codeforces ] Compatible Numbers](https://codeforces.com/contest/165/problem/E) - *SOS DP*
+    - [[ NBKOJ ] cwdcnkce](https://nbk.homes/problem/cwdcnkce) - *SOS DP*
