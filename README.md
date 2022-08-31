@@ -48,11 +48,11 @@ Register accounts on Online Judges:
 
     (03.10) Prefix Sum, Prefix Sum 2D
     - [[ NBKOJ ] plants](https://nbk.homes/problem/plants) - *Brute-force, Prefix Sum 2D* 
-    - [[ NBKOJ ] voi18bonus](https://nbk.homes/problem/voi18bonus) - *Inclusion-Exclusion Principle, Prefix Sum 2D*
+    - [[ NBKOJ ] voi18bonus](https://nbk.homes/problem/voi18bonus) - *Prefix Sum 2D, Combinatorics*
 
     (03.12) Number Theory
     - [[ NBKOJ ] exp](https://nbk.homes/problem/exp) - *Number Theory, Binary Exponentiation*
-    - [[ NBKOJ ] coprimearr](https://nbk.homes/problem/coprimearr) - *Sieve, Inclusion-Exclusion Principle*
+    - [[ NBKOJ ] coprimearr](https://nbk.homes/problem/coprimearr) - *Sieve, Combinatorics*
     - [[ NBKOJ ] bfpermstr](https://nbk.homes/problem/bfpermstr) - *Combinatorics, Modular Inverse*
     - [[ NBKOJ ] bfcomb](https://nbk.homes/problem/bfcomb) - *Combinatorics, Modular Inverse*
 
@@ -79,7 +79,7 @@ Register accounts on Online Judges:
     - [[ NBKOJ ] natdiv](https://nbk.homes/problem/natdiv) - *Sieve, Prefix Sum*
     - [[ LQDOJ ] primecount](https://lqdoj.edu.vn/problem/primecount) - *Sieve*
     - [[ VNOJ ] dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) - *Sieve, Prefix Sum*
-    - [[ NBKOJ ] bfprimediv](https://nbk.homes/problem/bfprimediv) - *Sieve, Inclusion-Exclusion Principle*
+    - [[ NBKOJ ] bfprimediv](https://nbk.homes/problem/bfprimediv) - *Sieve, Combinatorics*
 
     (05.21) Number Theory
     - [[ VNOJ ] fcb005_lcmseq](https://oj.vnoi.info/problem/fcb005_lcmseq) - *Number Theory, Dynamic Programming (DP)*
@@ -375,4 +375,4 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Square Subsets](https://codeforces.com/problemset/problem/895/C) - *Bitmask DP, Math*
     - [[ Codeforces ] A Simple Task](https://codeforces.com/contest/11/problem/D) - *Bitmask DP, Graph*
     - [[ Codeforces ] Compatible Numbers](https://codeforces.com/contest/165/problem/E) - *SOS DP*
-    - [[ NBKOJ ] cwdcnkce](https://nbk.homes/problem/cwdcnkce) - *SOS DP*
+    - [[ NBKOJ ] cwdcnkce](https://nbk.homes/problem/cwdcnkce) - *SOS DP, Combinatorics*
