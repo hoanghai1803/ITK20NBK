@@ -377,3 +377,9 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Square Subsets](https://codeforces.com/problemset/problem/895/C) - *SOS DP, Math, Combinatorics*
     - [[ NBKOJ ] cwdcnkce](https://nbk.homes/problem/cwdcnkce) - *SOS DP, Combinatorics*
     - [[ VNOJ ] voi21_or](https://oj.vnoi.info/problem/voi21_or) - *SOS DP, Combinatorics*
+
+- **Week 18 (09.05 - 09.11)**
+
+    (09.08) Digit DP
+    - [[ VNOJ ] demso](https://oj.vnoi.info/problem/demso) - *Digit DP*
+    - [[ VNOJ ] lucky13](https://oj.vnoi.info/problem/lucky13) - *Digit DP*
