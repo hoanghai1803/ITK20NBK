@@ -376,3 +376,4 @@ Register accounts on Online Judges:
     - [[ Codeforces ] Compatible Numbers](https://codeforces.com/contest/165/problem/E) - *SOS DP*
     - [[ Codeforces ] Square Subsets](https://codeforces.com/problemset/problem/895/C) - *SOS DP, Math, Combinatorics*
     - [[ NBKOJ ] cwdcnkce](https://nbk.homes/problem/cwdcnkce) - *SOS DP, Combinatorics*
+    - [[ VNOJ ] voi21_or](https://oj.vnoi.info/problem/voi21_or) - *SOS DP, Combinatorics*
