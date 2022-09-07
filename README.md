@@ -384,3 +384,5 @@ Register accounts on Online Judges:
     - [[ VNOJ ] demso](https://oj.vnoi.info/problem/demso) - *Digit DP*
     - [[ VNOJ ] atcoder_dp_s](https://oj.vnoi.info/problem/atcoder_dp_s) - *Digit DP*
     - [[ VNOJ ] lucky13](https://oj.vnoi.info/problem/lucky13) - *Digit DP*
+    - [[ NBKOJ ] cwdpearl](https://nbk.homes/problem/cwdpearl) - *Digit DP*
+    - [[ Codeforces] Magics Number](https://codeforces.com/contest/628/problem/D) - *Digit DP*
