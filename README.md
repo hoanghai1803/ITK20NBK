@@ -385,13 +385,14 @@ Register accounts on Online Judges:
     - [[ VNOJ ] atcoder_dp_s](https://oj.vnoi.info/problem/atcoder_dp_s) - *Digit DP*
     - [[ VNOJ ] lucky13](https://oj.vnoi.info/problem/lucky13) - *Digit DP*
     - [[ NBKOJ ] cwdpearl](https://nbk.homes/problem/cwdpearl) - *Digit DP*
-    - [[ Codeforces] Magics Number](https://codeforces.com/contest/628/problem/D) - *Digit DP*
+    - [[ Codeforces ] Magics Number](https://codeforces.com/contest/628/problem/D) - *Digit DP*
 
 - **Week 19 (09.12 - 09.18)**
 
     (09.15) Hashing
     - [[ VNOJ ] substr](https://oj.vnoi.info/problem/substr) - *String Hashing*
     - [[ LQDOJ ] pun](https://lqdoj.edu.vn/problem/pun) - *String Hashing*
+    - [[ NBKOJ ] period](https://nbk.homes/problem/period) - *String Hashing*
     - [[ VNOJ ] paliny](https://oj.vnoi.info/problem/paliny) - *String Hashing*
     - [[ LQDOJ ] twostr](https://lqdoj.edu.vn/problem/twostr) - *String Hashing*
     - [[ VNOJ ] tnhtest](https://oj.vnoi.info/problem/tnhtest) - *Hashing*
