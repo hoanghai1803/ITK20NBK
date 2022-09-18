@@ -390,7 +390,6 @@ Register accounts on Online Judges:
 - **Week 19 (09.12 - 09.18)**
 
     (09.15) Hashing
-    - [[ VNOJ ] substr](https://oj.vnoi.info/problem/substr) - *String Hashing*
     - [[ LQDOJ ] pun](https://lqdoj.edu.vn/problem/pun) - *String Hashing*
     - [[ NBKOJ ] period](https://nbk.homes/problem/period) - *String Hashing*
     - [[ VNOJ ] paliny](https://oj.vnoi.info/problem/paliny) - *String Hashing*
@@ -399,3 +398,9 @@ Register accounts on Online Judges:
     - [[ VNOJ ] vobignum](https://oj.vnoi.info/problem/vobignum) - *Hashing*
     - [[ LQDOJ ] catalan](https://lqdoj.edu.vn/problem/catalan) - *Hashing*
     - [[ LQDOJ ] coinflip](https://lqdoj.edu.vn/problem/coinflip) - *Hashing*
+
+    (09.17) Prefix Function - KMP Algorithm
+    - [[ VNOJ ] substr](https://oj.vnoi.info/problem/substr) - *DP, KMP, String Hashing*
+    - [[ Codeforces ] MUH and Cube Walls](https://codeforces.com/contest/471/problem/D) - *DP, KMP, String Hashing*
+    - [[ Codeforces ] Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) - *DP, KMP, Z-function*
+    - [[ LQDOJ ] lqdstr](https://lqdoj.edu.vn/problem/lpdstr) - *DP, KMP*
