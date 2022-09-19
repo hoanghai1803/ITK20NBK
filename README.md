@@ -401,6 +401,6 @@ Register accounts on Online Judges:
 
     (09.17) Prefix Function - KMP Algorithm
     - [[ VNOJ ] substr](https://oj.vnoi.info/problem/substr) - *DP, KMP, String Hashing*
-    - [[ Codeforces ] MUH and Cube Walls](https://codeforces.com/contest/471/problem/D) - *DP, KMP, String Hashing*
-    - [[ Codeforces ] Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) - *DP, KMP, Z-function*
-    - [[ LQDOJ ] lqdstr](https://lqdoj.edu.vn/problem/lpdstr) - *DP, KMP*
+    - [[ Codeforces ] MUH and Cube Walls](https://codeforces.com/contest/471/problem/D) - *DP, KMP, Z-function, Suffix Array, String Hashing*
+    - [[ Codeforces ] Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) - *DP, KMP, Z-function, Dfs*
+    - [[ LQDOJ ] lpdstr](https://lqdoj.edu.vn/problem/lpdstr) - *DP, KMP*
