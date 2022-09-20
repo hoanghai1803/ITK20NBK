@@ -400,7 +400,12 @@ Register accounts on Online Judges:
     - [[ LQDOJ ] coinflip](https://lqdoj.edu.vn/problem/coinflip) - *Hashing*
 
     (09.17) Prefix Function - KMP Algorithm
-    - [[ VNOJ ] substr](https://oj.vnoi.info/problem/substr) - *DP, KMP, String Hashing*
+    - [[ VNOJ ] substr](https://oj.vnoi.info/problem/substr) - *DP, KMP, Z-function, String Hashing*
     - [[ Codeforces ] MUH and Cube Walls](https://codeforces.com/contest/471/problem/D) - *DP, KMP, Z-function, Suffix Array, String Hashing*
     - [[ Codeforces ] Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D) - *DP, KMP, Z-function, Dfs*
     - [[ LQDOJ ] lpdstr](https://lqdoj.edu.vn/problem/lpdstr) - *DP, KMP*
+
+- **Week 20 (09.19 - 09.25)**
+
+    (09.22) Z-function
+    - [[ Codeforces ] Password](https://codeforces.com/problemset/problem/126/B) - *DP, KMP, Z-function*
