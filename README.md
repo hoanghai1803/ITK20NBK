@@ -409,3 +409,4 @@ Register accounts on Online Judges:
 
     (09.22) Z-function
     - [[ Codeforces ] Password](https://codeforces.com/problemset/problem/126/B) - *DP, KMP, Z-function*
+    - [[ VNOJ ] c11str2](https://oj.vnoi.info/problem/c11str2) - *DP, KMP, Z-function*
