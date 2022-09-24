@@ -59,15 +59,16 @@ Register accounts on Online Judges:
 - **Week 2 (03.14 - 03.20)**
 
     (03.15) Graph Fundamental, BFS, DFS
-    - [[ VNOJ ] ads](https://oj.vnoi.info/problem/ads) - *Bfs, Dfs*
-    - [[ NBKOJ ] sumsubtree](https://nbk.homes/problem/sumsubtree) - *Dfs, Segment Tree / Fenwick Tree*
-    - [[ VNOJ ] qbbishop](https://oj.vnoi.info/problem/qbbishop) - *Bfs*
-    - [[ VNOJ ] robocon](https://oj.vnoi.info/problem/robocon) - *Bfs*
+    - [[ VNOJ ] ads](https://oj.vnoi.info/problem/ads) - *BFS, DFS*
+    - [[ NBKOJ ] sumsubtree](https://nbk.homes/problem/sumsubtree) - *DFS, Segment Tree / Fenwick Tree*
+    - [[ VNOJ ] qbbishop](https://oj.vnoi.info/problem/qbbishop) - *BFS*
+    - [[ VNOJ ] robocon](https://oj.vnoi.info/problem/robocon) - *BFS*
+    - [[ Codeforces ] Labyrinth](https://codeforces.com/contest/1063/problem/B) - *0-1 BFS*
     - [[ VNOJ ] voi18specone](https://oj.vnoi.info/problem/voi18specone) - *Multi-source BFS, Data Structures*
     - [[ VNOJ ] qbcirarc](https://oj.vnoi.info/problem/qbcirarc) - *DFS Color (Detect Cycle)*
 
     (03.17) Binary Search, Two Pointers
-    - [[ NBKOJ ] mtwalk](https://nbk.homes/problem/mtwalk) - *Binary Search, Bfs, Dfs*
+    - [[ NBKOJ ] mtwalk](https://nbk.homes/problem/mtwalk) - *Binary Search, BFS, DFS*
     - [[ NBKOJ ] voi15mincut](https://nbk.homes/problem/voi15mincut) - *Binary Search, Prefix Sum 2D*
     - [[ NBKOJ ] voi14minroad](https://nbk.homes/problem/voi14minroad) - *Binary Search, Two Pointers*
 
@@ -258,7 +259,7 @@ Register accounts on Online Judges:
 - **Week 12 (07.25 - 07.31)**
 
     (07.28) Shortest Path (Graphs)
-    - [[ VNOJ ] stable](https://oj.vnoi.info/problem/stable) - *Bfs*
+    - [[ VNOJ ] stable](https://oj.vnoi.info/problem/stable) - *BFS*
     - [[ VNOJ ] binladen](https://oj.vnoi.info/problem/binladen) - *Dijkstra*
     - [[ VNOJ ] pwrfail](https://oj.vnoi.info/problem/pwrfail) - *Dijkstra*
     - [[ VNOJ ] qbschool](https://oj.vnoi.info/problem/qbschool) - *Dijkstra*
@@ -362,7 +363,7 @@ Register accounts on Online Judges:
     (08.27) Bitmask DP
     - [[ VNOJ ] mixup2](https://oj.vnoi.info/problem/mixup2) - *Bitmask DP*
     - [[ VNOJ ] lem3](https://oj.vnoi.info/problem/lem3) - *Bitmask DP*
-    - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *Bfs, Bitmask DP*
+    - [[ NBKOJ ] bfgifts](https://nbk.homes/problem/bfgifts) - *BFS, Bitmask DP*
     - [[ VNOJ ] cowgirl](https://oj.vnoi.info/problem/cowgirl) - *Bitmask DP*
     - [[ VNOJ ] qbgame](https://oj.vnoi.info/problem/qbgame) - *Bitmask DP*
     - [[ VNOJ ] predhbb21_cpu](https://oj.vnoi.info/problem/predhbb21_cpu) - *Bitmask DP*
