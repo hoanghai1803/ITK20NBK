@@ -31,6 +31,7 @@ Register accounts on Online Judges:
 - [Croatian Open Competition in Informatics (COCI)](https://hsin.hr/coci/)
 - [USA Computing Olympiad (USACO)](http://www.usaco.org/index.php?page=contests)
 - [Central-European Olympiad in Informatics (CEOI)](https://cses.fi/ceoi/list/) (or on the [official site](http://ceoi.inf.elte.hu/))
+- [Singapore National Olympiad in Informatics (SGNOI)](https://github.com/noisg/sg_noi_archive)
 - [Baltic Olympiad in Informatics (BOI)](https://cses.fi/boi/list/)
 
 ----
