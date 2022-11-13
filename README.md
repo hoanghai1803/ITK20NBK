@@ -78,7 +78,7 @@ Register accounts on Online Judges:
     (05.20) Sieve
     - [[ NBKOJ ] cntdiv](https://nbk.homes/problem/cntdiv) - *Number Theory, Sieve*
     - [[ NBKOJ ] commondiv](https://nbk.homes/problem/commondiv) - *Sieve*
-    - [[ NBKOJ ] natdiv](https://nbk.homes/problem/natdiv) - *Sieve, Prefix Sum*
+    - [[ NBKOJ ] qn20natdiv](https://nbk.homes/problem/qn20natdiv) - *Sieve, Prefix Sum*
     - [[ LQDOJ ] primecount](https://lqdoj.edu.vn/problem/primecount) - *Sieve*
     - [[ VNOJ ] dhbb21_easytask](https://oj.vnoi.info/problem/dhbb21_easytask) - *Sieve, Prefix Sum*
     - [[ NBKOJ ] bfprimediv](https://nbk.homes/problem/bfprimediv) - *Sieve, Combinatorics*
